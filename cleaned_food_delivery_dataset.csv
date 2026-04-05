@@ -1,0 +1,1201 @@
+Order_ID,Customer_ID,Order_Date,City,Restaurant_Name,Food_Category,Item_Name,Quantity,Order_Value,Delivery_Time_Min,Payment_Method,Rating,Month,Day,Delivery_Status
+1000,58,2024-01-04,Mysuru,Domino'S,Biryani,Chicken Pizza,1,580.16,49,UPI,5.0,1,Thursday,Late
+1001,217,2024-02-05,Bangalore,Domino'S,Biryani,Dosa,1,501.65,60,UPI,4.0,2,Monday,Late
+1002,113,2024-02-27,Mysuru,Pizza Hut,Biryani,Fries,3,308.95,28,CASH,1.0,2,Tuesday,Fast
+1003,48,2024-02-05,Hubli,Empire,North Indian,Chicken Biryani,1,616.22,49,UPI,4.0,2,Monday,Late
+1004,41,2024-02-05,Hubli,Meghana Foods,Biryani,Cheese Pizza,1,569.66,64,CASH,1.0,2,Monday,Late
+1005,120,2024-02-05,Mysuru,Mcdonald'S,Dessert,Chicken Pizza,3,361.58,57,CASH,2.9847560975609757,2,Monday,Late
+1006,37,2024-03-18,Bangalore,Mcdonald'S,Biryani,Chicken Pizza,4,378.03,55,UPI,2.0,3,Monday,Late
+1007,167,2024-02-05,Bangalore,Empire,South Indian,Chicken Biryani,1,263.47,51,CASH,2.0,2,Monday,Late
+1008,256,2024-02-20,Mangalore,Domino'S,Dessert,Chicken Pizza,2,626.59,49,CASH,2.9847560975609757,2,Tuesday,Late
+1009,300,2024-02-24,Hubli,Empire,Biryani,Chicken Pizza,4,181.82,18,UPI,2.0,2,Saturday,Fast
+1010,82,2024-02-05,Bangalore,Empire,South Indian,Paneer Curry,4,479.8,50,UPI,2.9847560975609757,2,Monday,Late
+1011,59,2024-03-28,Mysuru,Empire,Fast Food,Chicken Biryani,4,227.55,15,CASH,5.0,3,Thursday,Fast
+1012,92,2024-02-05,Mysuru,Mcdonald'S,North Indian,Veg Biryani,2,374.26,25,UPI,5.0,2,Monday,Fast
+1013,1,2024-02-05,Mangalore,Pizza Hut,Fast Food,Burger,3,282.83,30,UPI,1.0,2,Monday,Normal
+1014,44,2024-02-05,Mangalore,Domino'S,Biryani,Garlic Bread,2,300.24,70,UPI,4.0,2,Monday,Late
+1015,109,2024-03-10,Mysuru,Kfc,South Indian,Burger,4,731.74,43,UPI,2.0,3,Sunday,Normal
+1016,116,2024-02-05,Bangalore,Meghana Foods,North Indian,Veg Biryani,2,124.89,60,UPI,2.0,2,Monday,Late
+1017,35,2024-02-05,Bangalore,Mcdonald'S,Biryani,Chicken Biryani,4,265.68,23,UPI,5.0,2,Monday,Fast
+1018,243,2024-02-05,Hubli,Domino'S,Fast Food,Cheese Pizza,4,360.92,41,CARD,2.9847560975609757,2,Monday,Normal
+1019,28,2024-03-27,Bangalore,Pizza Hut,South Indian,Burger,1,289.09,27,UPI,4.0,3,Wednesday,Fast
+1020,72,2024-02-05,Mysuru,Mcdonald'S,Biryani,Cheese Pizza,4,669.46,69,UPI,1.0,2,Monday,Late
+1021,26,2024-03-24,Bangalore,Pizza Hut,Biryani,Chicken Pizza,4,450.24,28,CARD,1.0,3,Sunday,Fast
+1022,85,2024-02-05,Hubli,Kfc,South Indian,Chicken Biryani,4,593.68,61,UPI,2.9847560975609757,2,Monday,Late
+1023,250,2024-02-05,Mysuru,Domino'S,Fast Food,Paneer Curry,1,628.62,18,UPI,5.0,2,Monday,Fast
+1024,245,2024-03-05,Bangalore,Pizza Hut,North Indian,Cheese Pizza,2,166.59,19,CARD,4.0,3,Tuesday,Fast
+1025,62,2024-02-05,Bangalore,Meghana Foods,Fast Food,Fries,3,755.6,28,CASH,2.0,2,Monday,Fast
+1026,136,2024-02-05,Mysuru,Mcdonald'S,Dessert,Cheese Pizza,1,431.63,51,UPI,1.0,2,Monday,Late
+1027,276,2024-01-28,Mysuru,Domino'S,Dessert,Cheese Pizza,2,371.28,25,CARD,5.0,1,Sunday,Fast
+1028,155,2024-03-19,Mangalore,Pizza Hut,North Indian,Chicken Biryani,1,758.47,23,CASH,1.0,3,Tuesday,Fast
+1029,55,2024-02-05,Mysuru,Kfc,North Indian,Veg Biryani,3,258.45,55,CASH,5.0,2,Monday,Late
+1030,251,2024-02-05,Bangalore,Empire,Dessert,Veg Pizza,1,346.82,23,CASH,2.0,2,Monday,Fast
+1031,227,2024-03-11,Hubli,Mcdonald'S,Fast Food,Cheese Pizza,1,762.63,59,CARD,5.0,3,Monday,Late
+1032,19,2024-02-17,Mangalore,Domino'S,South Indian,Chicken Pizza,1,329.62,65,UPI,3.0,2,Saturday,Late
+1033,108,2024-02-05,Bangalore,Empire,North Indian,Fries,2,749.52,30,CARD,2.0,2,Monday,Normal
+1034,212,2024-02-05,Hubli,Empire,Biryani,Chicken Biryani,2,655.41,21,CARD,1.0,2,Monday,Fast
+1035,241,2024-02-05,Mangalore,Empire,Dessert,Veg Biryani,2,136.09,27,CARD,3.0,2,Monday,Fast
+1036,143,2024-02-05,Hubli,Mcdonald'S,South Indian,Dosa,3,758.68,22,CASH,2.0,2,Monday,Fast
+1037,298,2024-02-05,Bangalore,Meghana Foods,South Indian,Burger,3,416.75,47,UPI,4.0,2,Monday,Late
+1038,296,2024-02-05,Bangalore,Empire,Fast Food,Dosa,2,367.67,19,CASH,5.0,2,Monday,Fast
+1039,161,2024-02-05,Mysuru,Mcdonald'S,Dessert,Fries,3,393.63,33,UPI,2.0,2,Monday,Normal
+1040,99,2024-02-23,Hubli,Domino'S,North Indian,Paneer Curry,3,396.13,68,UPI,3.0,2,Friday,Late
+1041,147,2024-02-05,Hubli,Mcdonald'S,South Indian,Garlic Bread,2,467.6,65,CARD,2.9847560975609757,2,Monday,Late
+1042,44,2024-02-06,Hubli,Pizza Hut,Biryani,Chicken Biryani,2,668.46,24,UPI,1.0,2,Tuesday,Fast
+1043,126,2024-03-01,Bangalore,Mcdonald'S,South Indian,Paneer Curry,2,608.48,39,CARD,4.0,3,Friday,Normal
+1044,125,2024-01-19,Bangalore,Pizza Hut,South Indian,Veg Biryani,2,666.79,59,UPI,4.0,1,Friday,Late
+1045,26,2024-02-05,Bangalore,Mcdonald'S,Biryani,Garlic Bread,3,766.03,43,UPI,2.9847560975609757,2,Monday,Normal
+1046,259,2024-02-24,Mangalore,Domino'S,South Indian,Garlic Bread,3,631.21,68,CASH,5.0,2,Saturday,Late
+1047,249,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Chicken Biryani,2,304.77,35,UPI,1.0,2,Monday,Normal
+1048,71,2024-02-05,Hubli,Domino'S,Biryani,Cheese Pizza,4,397.17,49,CARD,4.0,2,Monday,Late
+1049,32,2024-02-05,Hubli,Meghana Foods,Fast Food,Paneer Curry,4,444.35,37,CASH,4.0,2,Monday,Normal
+1050,215,2024-03-09,Mangalore,Meghana Foods,Biryani,Garlic Bread,2,305.6,46,UPI,4.0,3,Saturday,Late
+1051,173,2024-03-26,Hubli,Domino'S,South Indian,Chicken Pizza,1,736.71,52,UPI,2.9847560975609757,3,Tuesday,Late
+1052,14,2024-01-11,Hubli,Domino'S,South Indian,Chicken Pizza,1,296.91,35,CARD,4.0,1,Thursday,Normal
+1053,168,2024-02-05,Mysuru,Empire,Dessert,Cheese Pizza,4,133.18,49,UPI,3.0,2,Monday,Late
+1054,115,2024-02-05,Bangalore,Pizza Hut,Biryani,Veg Biryani,1,542.51,30,CARD,4.0,2,Monday,Normal
+1055,59,2024-02-05,Mangalore,Kfc,Dessert,Chicken Pizza,1,648.9,25,CASH,1.0,2,Monday,Fast
+1056,297,2024-02-05,Hubli,Empire,Biryani,Cheese Pizza,2,189.29,64,CASH,2.9847560975609757,2,Monday,Late
+1057,62,2024-02-05,Hubli,Mcdonald'S,South Indian,Burger,1,464.05,36,UPI,4.0,2,Monday,Normal
+1058,251,2024-02-05,Hubli,Mcdonald'S,Biryani,Fries,2,618.98,56,CASH,5.0,2,Monday,Late
+1059,276,2024-02-05,Hubli,Meghana Foods,Dessert,Burger,2,684.9,20,CASH,4.0,2,Monday,Fast
+1060,125,2024-02-29,Hubli,Empire,Fast Food,Garlic Bread,3,243.65,28,CASH,3.0,2,Thursday,Fast
+1061,175,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Dosa,2,178.22,61,CARD,4.0,2,Monday,Late
+1062,285,2024-01-31,Mangalore,Mcdonald'S,South Indian,Veg Pizza,1,320.08,40,CARD,3.0,1,Wednesday,Normal
+1063,298,2024-02-05,Mangalore,Mcdonald'S,Dessert,Fries,3,359.23,44,CASH,3.0,2,Monday,Normal
+1064,129,2024-02-05,Mysuru,Empire,Fast Food,Dosa,2,250.25,62,CARD,3.0,2,Monday,Late
+1065,269,2024-02-05,Bangalore,Domino'S,Dessert,Veg Biryani,3,242.02,15,UPI,2.0,2,Monday,Fast
+1066,141,2024-02-05,Mangalore,Kfc,Biryani,Garlic Bread,1,713.45,51,CASH,4.0,2,Monday,Late
+1067,246,2024-02-05,Bangalore,Pizza Hut,Dessert,Garlic Bread,1,679.04,40,CARD,1.0,2,Monday,Normal
+1068,296,2024-03-21,Bangalore,Domino'S,Biryani,Paneer Curry,3,177.92,30,UPI,5.0,3,Thursday,Normal
+1069,214,2024-03-18,Mysuru,Mcdonald'S,South Indian,Garlic Bread,4,322.2,52,CARD,3.0,3,Monday,Late
+1070,292,2024-02-05,Bangalore,Domino'S,Biryani,Chicken Biryani,1,226.8,26,UPI,1.0,2,Monday,Fast
+1071,81,2024-02-05,Mangalore,Meghana Foods,South Indian,Chicken Biryani,1,277.4,60,CASH,2.9847560975609757,2,Monday,Late
+1072,233,2024-01-10,Mysuru,Kfc,North Indian,Veg Biryani,4,198.05,29,CARD,3.0,1,Wednesday,Fast
+1073,73,2024-02-05,Bangalore,Kfc,North Indian,Paneer Curry,3,418.62,44,CASH,2.9847560975609757,2,Monday,Normal
+1074,207,2024-02-04,Mangalore,Mcdonald'S,South Indian,Cheese Pizza,1,724.81,62,CASH,5.0,2,Sunday,Late
+1075,129,2024-02-05,Mysuru,Meghana Foods,North Indian,Veg Pizza,3,511.85,63,CARD,4.0,2,Monday,Late
+1076,266,2024-02-05,Mysuru,Domino'S,North Indian,Fries,4,778.96,45,CASH,4.0,2,Monday,Normal
+1077,171,2024-02-11,Bangalore,Domino'S,Dessert,Fries,4,315.99,40,UPI,1.0,2,Sunday,Normal
+1078,233,2024-02-05,Mysuru,Empire,Fast Food,Fries,1,567.21,49,CARD,4.0,2,Monday,Late
+1079,28,2024-01-25,Hubli,Meghana Foods,South Indian,Garlic Bread,1,258.42,50,CARD,3.0,1,Thursday,Late
+1080,225,2024-02-05,Bangalore,Pizza Hut,North Indian,Veg Biryani,2,331.31,15,UPI,4.0,2,Monday,Fast
+1081,48,2024-02-05,Mangalore,Pizza Hut,Biryani,Garlic Bread,3,466.03,32,CARD,4.0,2,Monday,Normal
+1082,242,2024-02-05,Mangalore,Domino'S,South Indian,Veg Biryani,2,707.54,32,CARD,3.0,2,Monday,Normal
+1083,260,2024-02-05,Mysuru,Kfc,North Indian,Paneer Curry,4,708.38,43,UPI,4.0,2,Monday,Normal
+1084,177,2024-02-12,Mangalore,Empire,South Indian,Burger,2,786.93,30,UPI,4.0,2,Monday,Normal
+1085,120,2024-02-05,Hubli,Mcdonald'S,South Indian,Fries,2,456.82,17,CARD,5.0,2,Monday,Fast
+1086,170,2024-02-05,Bangalore,Mcdonald'S,South Indian,Veg Pizza,2,398.79,56,CARD,1.0,2,Monday,Late
+1087,241,2024-02-05,Hubli,Pizza Hut,Dessert,Dosa,4,768.81,55,CARD,5.0,2,Monday,Late
+1088,19,2024-02-05,Mysuru,Kfc,Biryani,Cheese Pizza,4,785.27,63,UPI,4.0,2,Monday,Late
+1089,86,2024-02-05,Bangalore,Pizza Hut,Dessert,Veg Pizza,3,363.76,42,CARD,2.0,2,Monday,Normal
+1090,272,2024-02-22,Bangalore,Domino'S,Biryani,Cheese Pizza,4,541.4,30,CARD,5.0,2,Thursday,Normal
+1091,74,2024-02-05,Mysuru,Mcdonald'S,Dessert,Veg Pizza,4,732.82,58,UPI,2.0,2,Monday,Late
+1092,38,2024-02-05,Mysuru,Empire,Dessert,Garlic Bread,3,255.47,39,CARD,1.0,2,Monday,Normal
+1093,122,2024-02-18,Hubli,Meghana Foods,Dessert,Chicken Biryani,1,785.0,57,CARD,3.0,2,Sunday,Late
+1094,5,2024-03-13,Bangalore,Meghana Foods,South Indian,Chicken Biryani,2,532.8,37,CARD,2.9847560975609757,3,Wednesday,Normal
+1095,98,2024-02-05,Bangalore,Pizza Hut,Fast Food,Chicken Biryani,4,142.69,38,CARD,1.0,2,Monday,Normal
+1096,152,2024-02-11,Hubli,Domino'S,Biryani,Chicken Pizza,3,480.98,32,CARD,3.0,2,Sunday,Normal
+1097,247,2024-02-07,Hubli,Pizza Hut,South Indian,Cheese Pizza,2,632.82,29,CARD,5.0,2,Wednesday,Fast
+1098,188,2024-02-05,Bangalore,Kfc,North Indian,Cheese Pizza,4,370.64,62,CASH,5.0,2,Monday,Late
+1099,196,2024-02-05,Bangalore,Domino'S,South Indian,Veg Pizza,3,742.37,29,UPI,2.9847560975609757,2,Monday,Fast
+1100,238,2024-02-05,Hubli,Pizza Hut,Biryani,Veg Pizza,1,326.97,46,UPI,1.0,2,Monday,Late
+1101,121,2024-02-05,Hubli,Mcdonald'S,Dessert,Dosa,4,519.39,61,CARD,4.0,2,Monday,Late
+1102,51,2024-03-03,Hubli,Kfc,Fast Food,Burger,2,421.5,30,CASH,1.0,3,Sunday,Normal
+1103,189,2024-03-10,Hubli,Pizza Hut,South Indian,Chicken Biryani,2,778.38,69,CARD,1.0,3,Sunday,Late
+1104,109,2024-03-23,Bangalore,Pizza Hut,Dessert,Veg Biryani,2,655.15,28,UPI,5.0,3,Saturday,Fast
+1105,107,2024-02-05,Mysuru,Empire,Biryani,Paneer Curry,1,308.55,24,CARD,5.0,2,Monday,Fast
+1106,129,2024-02-05,Bangalore,Domino'S,Fast Food,Burger,2,520.42,16,CARD,3.0,2,Monday,Fast
+1107,27,2024-01-17,Hubli,Mcdonald'S,Fast Food,Cheese Pizza,4,424.83,38,UPI,5.0,1,Wednesday,Normal
+1108,56,2024-02-27,Mysuru,Meghana Foods,Fast Food,Dosa,3,431.47,16,UPI,4.0,2,Tuesday,Fast
+1109,206,2024-02-24,Bangalore,Mcdonald'S,South Indian,Cheese Pizza,1,339.04,24,UPI,2.0,2,Saturday,Fast
+1110,141,2024-03-20,Mangalore,Empire,South Indian,Paneer Curry,3,428.53,53,CARD,1.0,3,Wednesday,Late
+1111,59,2024-03-24,Mangalore,Domino'S,South Indian,Garlic Bread,2,401.39,67,CARD,4.0,3,Sunday,Late
+1112,213,2024-02-05,Hubli,Empire,Dessert,Burger,2,587.04,45,UPI,1.0,2,Monday,Normal
+1113,44,2024-02-05,Bangalore,Empire,Biryani,Dosa,1,518.8,50,UPI,3.0,2,Monday,Late
+1114,63,2024-02-05,Hubli,Pizza Hut,Dessert,Paneer Curry,3,359.12,51,UPI,2.0,2,Monday,Late
+1115,80,2024-02-05,Mysuru,Pizza Hut,Dessert,Dosa,3,198.12,32,UPI,2.0,2,Monday,Normal
+1116,220,2024-03-12,Mangalore,Pizza Hut,North Indian,Chicken Biryani,1,242.68,59,CASH,3.0,3,Tuesday,Late
+1117,180,2024-02-05,Bangalore,Meghana Foods,South Indian,Cheese Pizza,2,623.86,16,UPI,2.9847560975609757,2,Monday,Fast
+1118,272,2024-02-05,Hubli,Mcdonald'S,Dessert,Chicken Pizza,3,331.91,35,UPI,5.0,2,Monday,Normal
+1119,44,2024-02-05,Bangalore,Meghana Foods,Fast Food,Cheese Pizza,3,421.32,42,CARD,5.0,2,Monday,Normal
+1120,227,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Burger,4,195.41,58,UPI,4.0,2,Monday,Late
+1121,270,2024-02-05,Bangalore,Domino'S,South Indian,Paneer Curry,1,125.23,34,CARD,2.0,2,Monday,Normal
+1122,131,2024-02-05,Bangalore,Pizza Hut,South Indian,Fries,2,207.85,49,CARD,5.0,2,Monday,Late
+1123,287,2024-02-05,Bangalore,Empire,Fast Food,Fries,1,432.63,19,CASH,5.0,2,Monday,Fast
+1124,220,2024-02-05,Hubli,Kfc,Fast Food,Fries,1,777.02,25,UPI,4.0,2,Monday,Fast
+1125,186,2024-02-05,Bangalore,Domino'S,South Indian,Paneer Curry,4,476.29,40,CASH,2.9847560975609757,2,Monday,Normal
+1126,174,2024-02-05,Bangalore,Pizza Hut,North Indian,Cheese Pizza,2,736.03,37,CASH,2.9847560975609757,2,Monday,Normal
+1127,76,2024-02-05,Bangalore,Kfc,Biryani,Chicken Pizza,2,636.95,56,UPI,2.0,2,Monday,Late
+1128,253,2024-02-29,Mangalore,Meghana Foods,North Indian,Burger,3,222.65,19,CARD,4.0,2,Thursday,Fast
+1129,156,2024-02-05,Bangalore,Empire,North Indian,Cheese Pizza,3,433.98,17,UPI,3.0,2,Monday,Fast
+1130,147,2024-01-10,Bangalore,Meghana Foods,North Indian,Dosa,4,434.64,50,UPI,4.0,1,Wednesday,Late
+1131,293,2024-02-05,Hubli,Meghana Foods,South Indian,Dosa,2,771.25,43,UPI,3.0,2,Monday,Normal
+1132,44,2024-03-05,Bangalore,Pizza Hut,Biryani,Garlic Bread,4,476.37,54,CARD,3.0,3,Tuesday,Late
+1133,191,2024-02-05,Hubli,Empire,North Indian,Veg Pizza,3,164.82,21,UPI,2.9847560975609757,2,Monday,Fast
+1134,198,2024-02-05,Bangalore,Empire,Fast Food,Paneer Curry,2,743.39,34,CARD,2.0,2,Monday,Normal
+1135,44,2024-02-09,Hubli,Empire,Biryani,Dosa,1,559.3,42,UPI,3.0,2,Friday,Normal
+1136,10,2024-02-05,Bangalore,Domino'S,Dessert,Garlic Bread,2,274.05,23,CARD,1.0,2,Monday,Fast
+1137,152,2024-01-13,Mangalore,Mcdonald'S,Fast Food,Burger,2,526.13,24,CARD,2.0,1,Saturday,Fast
+1138,85,2024-02-05,Hubli,Empire,Biryani,Garlic Bread,3,631.63,65,CARD,2.0,2,Monday,Late
+1139,274,2024-02-05,Mangalore,Domino'S,Dessert,Paneer Curry,4,433.94,33,CARD,5.0,2,Monday,Normal
+1140,271,2024-02-05,Mysuru,Meghana Foods,Biryani,Chicken Biryani,1,556.0,70,CASH,5.0,2,Monday,Late
+1141,53,2024-02-05,Mysuru,Pizza Hut,Biryani,Chicken Biryani,4,735.61,24,CARD,1.0,2,Monday,Fast
+1142,114,2024-02-05,Bangalore,Empire,Fast Food,Fries,3,280.33,20,CASH,2.0,2,Monday,Fast
+1143,15,2024-02-05,Hubli,Domino'S,Biryani,Veg Pizza,3,743.83,45,CARD,2.9847560975609757,2,Monday,Normal
+1144,241,2024-02-27,Bangalore,Pizza Hut,Fast Food,Chicken Biryani,2,687.77,50,UPI,5.0,2,Tuesday,Late
+1145,217,2024-02-05,Mysuru,Kfc,Fast Food,Veg Pizza,2,405.48,65,UPI,4.0,2,Monday,Late
+1146,33,2024-02-05,Mangalore,Pizza Hut,North Indian,Paneer Curry,2,608.61,33,CARD,1.0,2,Monday,Normal
+1147,181,2024-01-31,Hubli,Domino'S,Fast Food,Dosa,3,166.02,48,UPI,5.0,1,Wednesday,Late
+1148,260,2024-02-05,Hubli,Mcdonald'S,Fast Food,Fries,3,292.48,16,CASH,1.0,2,Monday,Fast
+1149,177,2024-01-31,Bangalore,Meghana Foods,Dessert,Chicken Pizza,1,359.56,36,CARD,2.9847560975609757,1,Wednesday,Normal
+1150,238,2024-02-05,Bangalore,Domino'S,Fast Food,Garlic Bread,1,319.54,17,CARD,1.0,2,Monday,Fast
+1151,162,2024-02-09,Hubli,Mcdonald'S,South Indian,Chicken Biryani,1,632.24,27,CASH,3.0,2,Friday,Fast
+1152,25,2024-02-05,Mysuru,Pizza Hut,Dessert,Fries,4,625.45,39,CASH,2.0,2,Monday,Normal
+1153,255,2024-02-05,Hubli,Mcdonald'S,Dessert,Cheese Pizza,4,173.67,53,CARD,5.0,2,Monday,Late
+1154,151,2024-02-05,Bangalore,Empire,Dessert,Chicken Biryani,4,529.78,42,CARD,2.9847560975609757,2,Monday,Normal
+1155,228,2024-02-05,Bangalore,Empire,North Indian,Fries,3,554.84,65,UPI,1.0,2,Monday,Late
+1156,208,2024-02-16,Bangalore,Pizza Hut,Biryani,Paneer Curry,4,143.66,19,CARD,2.9847560975609757,2,Friday,Fast
+1157,188,2024-02-05,Bangalore,Meghana Foods,Biryani,Garlic Bread,3,372.97,63,UPI,5.0,2,Monday,Late
+1158,71,2024-02-05,Hubli,Empire,Dessert,Veg Biryani,1,137.62,26,CARD,5.0,2,Monday,Fast
+1159,199,2024-02-05,Mysuru,Kfc,South Indian,Veg Biryani,3,591.91,46,CARD,1.0,2,Monday,Late
+1160,70,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Burger,3,602.49,50,UPI,3.0,2,Monday,Late
+1161,154,2024-01-21,Bangalore,Empire,North Indian,Veg Biryani,1,789.89,65,CARD,2.0,1,Sunday,Late
+1162,253,2024-02-05,Mangalore,Meghana Foods,Dessert,Garlic Bread,2,536.12,20,UPI,3.0,2,Monday,Fast
+1163,204,2024-03-02,Hubli,Empire,North Indian,Cheese Pizza,2,781.22,56,UPI,4.0,3,Saturday,Late
+1164,239,2024-03-28,Hubli,Domino'S,North Indian,Paneer Curry,2,642.09,23,CARD,5.0,3,Thursday,Fast
+1165,29,2024-01-16,Bangalore,Kfc,Biryani,Chicken Pizza,3,755.62,29,CASH,5.0,1,Tuesday,Fast
+1166,146,2024-02-05,Mysuru,Mcdonald'S,Dessert,Chicken Pizza,3,537.81,20,UPI,2.9847560975609757,2,Monday,Fast
+1167,87,2024-03-16,Bangalore,Domino'S,North Indian,Paneer Curry,3,692.92,51,UPI,1.0,3,Saturday,Late
+1168,42,2024-01-06,Mysuru,Domino'S,North Indian,Fries,1,458.67,55,UPI,3.0,1,Saturday,Late
+1169,155,2024-02-05,Hubli,Kfc,South Indian,Cheese Pizza,1,227.49,41,CARD,4.0,2,Monday,Normal
+1170,105,2024-02-13,Bangalore,Empire,Dessert,Burger,4,208.92,38,UPI,5.0,2,Tuesday,Normal
+1171,55,2024-02-05,Mangalore,Pizza Hut,Dessert,Garlic Bread,2,215.8,18,CASH,4.0,2,Monday,Fast
+1172,215,2024-02-05,Hubli,Meghana Foods,Dessert,Veg Biryani,2,458.82,47,CARD,4.0,2,Monday,Late
+1173,158,2024-02-05,Bangalore,Empire,North Indian,Garlic Bread,2,266.3,37,UPI,1.0,2,Monday,Normal
+1174,145,2024-03-04,Mangalore,Kfc,North Indian,Veg Pizza,1,413.03,31,CASH,4.0,3,Monday,Normal
+1175,188,2024-02-05,Bangalore,Meghana Foods,North Indian,Veg Biryani,3,496.19,19,CARD,5.0,2,Monday,Fast
+1176,231,2024-02-05,Bangalore,Domino'S,Fast Food,Fries,3,660.53,36,UPI,3.0,2,Monday,Normal
+1177,74,2024-01-26,Mangalore,Empire,North Indian,Veg Pizza,1,146.46,60,CASH,4.0,1,Friday,Late
+1178,266,2024-02-05,Mangalore,Domino'S,Dessert,Paneer Curry,3,230.5,54,CASH,5.0,2,Monday,Late
+1179,173,2024-03-05,Mangalore,Mcdonald'S,North Indian,Chicken Biryani,4,674.71,38,CASH,2.9847560975609757,3,Tuesday,Normal
+1180,57,2024-02-23,Mysuru,Pizza Hut,North Indian,Garlic Bread,3,777.61,65,UPI,5.0,2,Friday,Late
+1181,117,2024-01-07,Mangalore,Domino'S,North Indian,Paneer Curry,4,220.49,58,CARD,1.0,1,Sunday,Late
+1182,294,2024-02-05,Mysuru,Pizza Hut,South Indian,Burger,4,222.97,59,CARD,4.0,2,Monday,Late
+1183,257,2024-02-05,Bangalore,Domino'S,North Indian,Veg Biryani,3,798.72,45,UPI,4.0,2,Monday,Normal
+1184,161,2024-02-05,Mangalore,Empire,North Indian,Burger,3,534.85,27,CARD,3.0,2,Monday,Fast
+1185,286,2024-02-05,Mysuru,Kfc,Biryani,Garlic Bread,3,446.27,50,CASH,3.0,2,Monday,Late
+1186,63,2024-03-14,Mangalore,Empire,South Indian,Burger,2,317.51,33,UPI,3.0,3,Thursday,Normal
+1187,227,2024-02-05,Mangalore,Domino'S,Biryani,Dosa,3,754.46,59,CASH,2.0,2,Monday,Late
+1188,56,2024-03-19,Mysuru,Domino'S,Fast Food,Dosa,2,553.8,18,UPI,4.0,3,Tuesday,Fast
+1189,170,2024-02-05,Bangalore,Pizza Hut,North Indian,Chicken Pizza,4,563.97,45,CARD,2.9847560975609757,2,Monday,Normal
+1190,103,2024-02-05,Mysuru,Pizza Hut,Fast Food,Paneer Curry,2,483.9,61,UPI,2.0,2,Monday,Late
+1191,214,2024-02-05,Hubli,Mcdonald'S,Biryani,Chicken Biryani,1,126.3,51,UPI,1.0,2,Monday,Late
+1192,172,2024-02-05,Mangalore,Mcdonald'S,South Indian,Chicken Pizza,4,305.53,66,UPI,3.0,2,Monday,Late
+1193,84,2024-02-28,Mysuru,Domino'S,Fast Food,Burger,3,506.09,63,CARD,2.0,2,Wednesday,Late
+1194,208,2024-02-24,Hubli,Pizza Hut,South Indian,Cheese Pizza,2,787.55,45,CASH,2.0,2,Saturday,Normal
+1195,4,2024-02-05,Mysuru,Mcdonald'S,Dessert,Burger,3,516.07,51,UPI,3.0,2,Monday,Late
+1196,185,2024-02-05,Bangalore,Pizza Hut,South Indian,Chicken Biryani,2,395.68,47,CASH,2.9847560975609757,2,Monday,Late
+1197,61,2024-02-05,Hubli,Meghana Foods,Biryani,Veg Biryani,2,445.16,44,UPI,3.0,2,Monday,Normal
+1198,213,2024-03-30,Mangalore,Mcdonald'S,Biryani,Veg Biryani,1,477.34,48,CASH,1.0,3,Saturday,Late
+1199,289,2024-02-05,Mangalore,Mcdonald'S,Biryani,Paneer Curry,2,231.89,69,UPI,4.0,2,Monday,Late
+1200,60,2024-02-05,Mangalore,Pizza Hut,North Indian,Garlic Bread,1,428.33,47,CARD,4.0,2,Monday,Late
+1201,289,2024-01-08,Mangalore,Kfc,Fast Food,Fries,3,675.19,62,CARD,5.0,1,Monday,Late
+1202,38,2024-02-05,Hubli,Pizza Hut,North Indian,Veg Pizza,1,790.57,45,UPI,3.0,2,Monday,Normal
+1203,210,2024-02-05,Hubli,Empire,South Indian,Garlic Bread,4,375.44,58,UPI,2.0,2,Monday,Late
+1204,179,2024-02-05,Mangalore,Empire,North Indian,Chicken Pizza,2,687.68,63,UPI,3.0,2,Monday,Late
+1205,238,2024-03-27,Mangalore,Empire,North Indian,Fries,2,288.31,37,CARD,3.0,3,Wednesday,Normal
+1206,97,2024-02-05,Hubli,Meghana Foods,Fast Food,Veg Biryani,2,165.76,53,UPI,4.0,2,Monday,Late
+1207,25,2024-02-01,Bangalore,Empire,South Indian,Veg Biryani,2,632.98,64,UPI,2.0,2,Thursday,Late
+1208,258,2024-02-05,Hubli,Meghana Foods,North Indian,Burger,2,325.2,24,UPI,2.0,2,Monday,Fast
+1209,212,2024-02-05,Bangalore,Mcdonald'S,North Indian,Chicken Pizza,4,497.98,18,CASH,2.9847560975609757,2,Monday,Fast
+1210,196,2024-02-05,Hubli,Empire,Biryani,Chicken Biryani,4,245.04,49,CARD,2.0,2,Monday,Late
+1211,116,2024-02-08,Bangalore,Mcdonald'S,Fast Food,Dosa,4,778.09,50,UPI,2.0,2,Thursday,Late
+1212,199,2024-02-05,Mysuru,Empire,Fast Food,Garlic Bread,3,182.88,61,CARD,1.0,2,Monday,Late
+1213,138,2024-02-18,Bangalore,Pizza Hut,Biryani,Paneer Curry,2,445.99,70,CASH,3.0,2,Sunday,Late
+1214,8,2024-02-05,Bangalore,Mcdonald'S,Biryani,Paneer Curry,2,389.71,30,UPI,3.0,2,Monday,Normal
+1215,145,2024-02-05,Mangalore,Empire,Dessert,Chicken Biryani,3,468.72,46,CARD,1.0,2,Monday,Late
+1216,241,2024-02-05,Hubli,Empire,South Indian,Veg Pizza,2,624.05,16,CASH,5.0,2,Monday,Fast
+1217,300,2024-03-15,Hubli,Kfc,Biryani,Veg Biryani,3,276.41,51,CARD,4.0,3,Friday,Late
+1218,282,2024-03-24,Hubli,Kfc,South Indian,Garlic Bread,4,234.4,65,CASH,2.0,3,Sunday,Late
+1219,72,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Dosa,1,690.57,19,UPI,1.0,2,Monday,Fast
+1220,212,2024-01-18,Mysuru,Pizza Hut,Biryani,Veg Pizza,2,463.9,38,UPI,5.0,1,Thursday,Normal
+1221,248,2024-02-05,Bangalore,Pizza Hut,North Indian,Dosa,4,128.06,48,CASH,5.0,2,Monday,Late
+1222,147,2024-01-03,Hubli,Domino'S,Fast Food,Cheese Pizza,2,283.86,54,UPI,3.0,1,Wednesday,Late
+1223,182,2024-02-05,Bangalore,Empire,South Indian,Garlic Bread,2,793.36,29,CASH,2.9847560975609757,2,Monday,Fast
+1224,42,2024-03-24,Bangalore,Pizza Hut,South Indian,Fries,4,495.84,18,UPI,2.9847560975609757,3,Sunday,Fast
+1225,88,2024-02-05,Hubli,Empire,North Indian,Cheese Pizza,1,276.24,70,UPI,4.0,2,Monday,Late
+1226,139,2024-02-05,Mysuru,Mcdonald'S,North Indian,Veg Pizza,2,751.56,35,UPI,2.0,2,Monday,Normal
+1227,74,2024-02-05,Mysuru,Domino'S,North Indian,Veg Biryani,4,580.38,49,CASH,4.0,2,Monday,Late
+1228,72,2024-03-29,Bangalore,Mcdonald'S,Dessert,Veg Pizza,1,417.22,68,UPI,3.0,3,Friday,Late
+1229,204,2024-02-05,Mysuru,Mcdonald'S,South Indian,Veg Biryani,3,496.07,39,CARD,2.0,2,Monday,Normal
+1230,300,2024-02-05,Bangalore,Meghana Foods,Dessert,Veg Biryani,1,175.79,24,CARD,2.9847560975609757,2,Monday,Fast
+1231,79,2024-02-05,Hubli,Pizza Hut,Fast Food,Veg Pizza,3,422.42,63,CASH,1.0,2,Monday,Late
+1232,68,2024-02-05,Hubli,Mcdonald'S,North Indian,Dosa,4,190.24,20,CASH,5.0,2,Monday,Fast
+1233,48,2024-03-17,Hubli,Empire,Fast Food,Chicken Biryani,4,383.7,20,UPI,2.0,3,Sunday,Fast
+1234,293,2024-02-05,Hubli,Domino'S,Biryani,Chicken Biryani,3,302.52,24,UPI,2.0,2,Monday,Fast
+1235,223,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Burger,3,762.07,61,CARD,5.0,2,Monday,Late
+1236,101,2024-02-05,Bangalore,Kfc,Fast Food,Fries,3,692.3,39,CASH,4.0,2,Monday,Normal
+1237,172,2024-02-25,Bangalore,Kfc,Dessert,Paneer Curry,2,445.73,26,CARD,3.0,2,Sunday,Fast
+1238,150,2024-03-29,Mangalore,Meghana Foods,Biryani,Burger,4,310.6,65,CARD,3.0,3,Friday,Late
+1239,59,2024-02-05,Mangalore,Domino'S,North Indian,Veg Pizza,4,761.22,28,CARD,3.0,2,Monday,Fast
+1240,36,2024-02-22,Mangalore,Domino'S,Dessert,Veg Biryani,3,567.89,60,CARD,4.0,2,Thursday,Late
+1241,38,2024-02-27,Mangalore,Meghana Foods,South Indian,Dosa,4,489.68,65,CASH,2.9847560975609757,2,Tuesday,Late
+1242,275,2024-03-17,Bangalore,Pizza Hut,Biryani,Burger,2,559.96,17,UPI,2.9847560975609757,3,Sunday,Fast
+1243,205,2024-02-05,Bangalore,Pizza Hut,Fast Food,Chicken Biryani,2,467.26,48,UPI,5.0,2,Monday,Late
+1244,295,2024-02-05,Hubli,Empire,South Indian,Paneer Curry,2,354.58,16,CARD,1.0,2,Monday,Fast
+1245,152,2024-02-05,Bangalore,Domino'S,Dessert,Chicken Biryani,3,429.63,28,UPI,4.0,2,Monday,Fast
+1246,179,2024-02-05,Mangalore,Mcdonald'S,Dessert,Cheese Pizza,3,150.38,60,UPI,1.0,2,Monday,Late
+1247,176,2024-02-05,Bangalore,Domino'S,North Indian,Chicken Pizza,2,345.07,42,CARD,2.0,2,Monday,Normal
+1248,208,2024-02-05,Bangalore,Empire,South Indian,Veg Pizza,2,425.71,42,CARD,1.0,2,Monday,Normal
+1249,110,2024-02-05,Bangalore,Meghana Foods,Fast Food,Dosa,2,368.74,27,CARD,1.0,2,Monday,Fast
+1250,135,2024-02-05,Mangalore,Empire,North Indian,Fries,4,519.16,37,CASH,4.0,2,Monday,Normal
+1251,89,2024-03-27,Mysuru,Meghana Foods,North Indian,Cheese Pizza,2,332.97,30,CASH,1.0,3,Wednesday,Normal
+1252,94,2024-02-17,Bangalore,Mcdonald'S,South Indian,Fries,2,510.87,42,CARD,4.0,2,Saturday,Normal
+1253,276,2024-03-29,Bangalore,Mcdonald'S,Biryani,Garlic Bread,3,215.4,35,CARD,5.0,3,Friday,Normal
+1254,28,2024-02-05,Mangalore,Domino'S,Biryani,Fries,4,398.21,46,CARD,2.9847560975609757,2,Monday,Late
+1255,228,2024-02-05,Bangalore,Meghana Foods,Fast Food,Veg Biryani,3,142.23,29,UPI,3.0,2,Monday,Fast
+1256,87,2024-02-28,Mangalore,Mcdonald'S,North Indian,Cheese Pizza,1,302.16,49,CASH,5.0,2,Wednesday,Late
+1257,22,2024-02-26,Mysuru,Empire,Fast Food,Veg Biryani,3,714.87,17,CARD,3.0,2,Monday,Fast
+1258,179,2024-02-05,Bangalore,Domino'S,Biryani,Paneer Curry,3,705.51,54,CARD,2.0,2,Monday,Late
+1259,72,2024-02-05,Bangalore,Meghana Foods,Dessert,Dosa,3,525.86,25,CASH,2.9847560975609757,2,Monday,Fast
+1260,150,2024-02-07,Mysuru,Mcdonald'S,Fast Food,Chicken Pizza,4,744.76,32,CARD,2.9847560975609757,2,Wednesday,Normal
+1261,68,2024-02-05,Hubli,Domino'S,South Indian,Garlic Bread,2,512.65,32,CARD,4.0,2,Monday,Normal
+1262,232,2024-01-10,Bangalore,Empire,North Indian,Chicken Biryani,3,429.19,46,CASH,5.0,1,Wednesday,Late
+1263,2,2024-01-12,Mangalore,Empire,Fast Food,Dosa,4,268.12,42,CARD,4.0,1,Friday,Normal
+1264,138,2024-02-05,Hubli,Mcdonald'S,North Indian,Chicken Pizza,4,656.05,58,UPI,1.0,2,Monday,Late
+1265,51,2024-02-05,Bangalore,Pizza Hut,Biryani,Garlic Bread,4,120.46,42,CARD,2.9847560975609757,2,Monday,Normal
+1266,68,2024-02-05,Bangalore,Kfc,Fast Food,Burger,3,176.05,57,CARD,1.0,2,Monday,Late
+1267,203,2024-02-05,Mysuru,Empire,Fast Food,Cheese Pizza,1,265.13,19,CARD,5.0,2,Monday,Fast
+1268,116,2024-03-07,Mangalore,Pizza Hut,Fast Food,Burger,1,791.95,42,CARD,4.0,3,Thursday,Normal
+1269,37,2024-02-05,Bangalore,Pizza Hut,Fast Food,Burger,3,719.07,23,CARD,2.0,2,Monday,Fast
+1270,74,2024-01-09,Bangalore,Meghana Foods,Biryani,Garlic Bread,3,611.25,55,CARD,4.0,1,Tuesday,Late
+1271,227,2024-02-05,Bangalore,Domino'S,Fast Food,Paneer Curry,4,359.04,42,CASH,2.0,2,Monday,Normal
+1272,127,2024-02-05,Bangalore,Domino'S,North Indian,Paneer Curry,3,649.7,59,UPI,2.9847560975609757,2,Monday,Late
+1273,155,2024-01-27,Mangalore,Domino'S,South Indian,Chicken Biryani,1,652.99,65,CARD,4.0,1,Saturday,Late
+1274,198,2024-02-05,Mangalore,Meghana Foods,Fast Food,Dosa,1,791.08,35,CARD,4.0,2,Monday,Normal
+1275,292,2024-02-05,Mangalore,Domino'S,South Indian,Cheese Pizza,1,519.41,15,CASH,2.0,2,Monday,Fast
+1276,21,2024-02-05,Mangalore,Kfc,North Indian,Fries,4,597.23,20,UPI,5.0,2,Monday,Fast
+1277,79,2024-02-05,Mysuru,Pizza Hut,North Indian,Veg Biryani,2,484.75,40,UPI,2.9847560975609757,2,Monday,Normal
+1278,34,2024-02-09,Hubli,Domino'S,Fast Food,Veg Biryani,1,748.75,22,CARD,5.0,2,Friday,Fast
+1279,29,2024-02-09,Bangalore,Pizza Hut,Fast Food,Chicken Pizza,1,231.41,37,UPI,5.0,2,Friday,Normal
+1280,133,2024-02-05,Bangalore,Kfc,Fast Food,Veg Pizza,3,668.83,32,UPI,1.0,2,Monday,Normal
+1281,135,2024-03-14,Bangalore,Mcdonald'S,South Indian,Dosa,3,157.7,69,UPI,2.0,3,Thursday,Late
+1282,189,2024-02-05,Bangalore,Meghana Foods,Fast Food,Veg Biryani,1,149.95,70,UPI,2.0,2,Monday,Late
+1283,24,2024-02-05,Hubli,Domino'S,Biryani,Veg Pizza,4,272.67,30,CARD,2.9847560975609757,2,Monday,Normal
+1284,164,2024-02-05,Hubli,Pizza Hut,North Indian,Veg Pizza,2,271.77,48,UPI,4.0,2,Monday,Late
+1285,36,2024-02-05,Mysuru,Empire,Fast Food,Dosa,4,125.42,27,CASH,5.0,2,Monday,Fast
+1286,156,2024-02-05,Mangalore,Empire,North Indian,Garlic Bread,2,618.08,49,CARD,2.0,2,Monday,Late
+1287,4,2024-02-05,Mysuru,Mcdonald'S,Dessert,Veg Pizza,3,120.99,57,CARD,2.9847560975609757,2,Monday,Late
+1288,158,2024-02-05,Mangalore,Domino'S,South Indian,Garlic Bread,1,781.34,24,CASH,1.0,2,Monday,Fast
+1289,23,2024-01-30,Hubli,Empire,South Indian,Cheese Pizza,1,463.69,55,CARD,1.0,1,Tuesday,Late
+1290,291,2024-02-05,Bangalore,Domino'S,Dessert,Chicken Biryani,3,749.71,40,CASH,3.0,2,Monday,Normal
+1291,232,2024-02-05,Bangalore,Domino'S,Biryani,Paneer Curry,1,225.68,25,CARD,4.0,2,Monday,Fast
+1292,161,2024-02-05,Mangalore,Empire,Biryani,Garlic Bread,3,435.08,69,UPI,1.0,2,Monday,Late
+1293,81,2024-02-05,Bangalore,Domino'S,Dessert,Chicken Pizza,1,603.59,37,CARD,5.0,2,Monday,Normal
+1294,26,2024-02-05,Mysuru,Domino'S,Fast Food,Fries,4,498.05,50,CARD,1.0,2,Monday,Late
+1295,237,2024-02-05,Bangalore,Pizza Hut,Fast Food,Veg Biryani,2,254.73,40,CASH,2.9847560975609757,2,Monday,Normal
+1296,44,2024-03-15,Mysuru,Pizza Hut,Fast Food,Cheese Pizza,2,733.7,43,CARD,1.0,3,Friday,Normal
+1297,170,2024-02-05,Mangalore,Pizza Hut,Biryani,Paneer Curry,4,678.75,40,CARD,1.0,2,Monday,Normal
+1298,196,2024-02-05,Bangalore,Empire,Biryani,Chicken Pizza,3,310.3,24,UPI,5.0,2,Monday,Fast
+1299,126,2024-02-05,Mangalore,Empire,North Indian,Garlic Bread,1,179.65,39,CARD,4.0,2,Monday,Normal
+1300,103,2024-03-23,Mysuru,Mcdonald'S,Fast Food,Fries,3,446.19,65,CARD,3.0,3,Saturday,Late
+1301,290,2024-02-05,Hubli,Kfc,Biryani,Veg Pizza,3,526.04,16,CASH,1.0,2,Monday,Fast
+1302,242,2024-02-05,Mysuru,Domino'S,Fast Food,Veg Biryani,2,301.24,67,UPI,2.0,2,Monday,Late
+1303,295,2024-02-05,Bangalore,Domino'S,Biryani,Paneer Curry,3,668.22,59,CASH,5.0,2,Monday,Late
+1304,15,2024-03-31,Hubli,Meghana Foods,North Indian,Chicken Pizza,2,688.95,66,CARD,5.0,3,Sunday,Late
+1305,159,2024-02-05,Bangalore,Pizza Hut,Fast Food,Veg Biryani,2,133.55,45,UPI,3.0,2,Monday,Normal
+1306,104,2024-02-05,Bangalore,Empire,Fast Food,Veg Pizza,2,518.89,24,UPI,5.0,2,Monday,Fast
+1307,187,2024-02-05,Hubli,Meghana Foods,Fast Food,Burger,3,339.37,25,CARD,2.9847560975609757,2,Monday,Fast
+1308,250,2024-02-05,Bangalore,Mcdonald'S,North Indian,Burger,2,572.56,67,CARD,4.0,2,Monday,Late
+1309,158,2024-02-05,Bangalore,Domino'S,Fast Food,Paneer Curry,4,698.51,64,UPI,1.0,2,Monday,Late
+1310,94,2024-02-05,Mysuru,Meghana Foods,Fast Food,Garlic Bread,2,345.19,19,CARD,3.0,2,Monday,Fast
+1311,164,2024-01-22,Bangalore,Empire,South Indian,Veg Pizza,3,262.59,59,UPI,3.0,1,Monday,Late
+1312,132,2024-01-14,Bangalore,Pizza Hut,South Indian,Garlic Bread,4,778.99,41,CARD,4.0,1,Sunday,Normal
+1313,180,2024-02-05,Bangalore,Mcdonald'S,North Indian,Veg Biryani,2,426.88,66,UPI,3.0,2,Monday,Late
+1314,11,2024-02-05,Bangalore,Pizza Hut,Dessert,Chicken Pizza,4,229.42,19,UPI,1.0,2,Monday,Fast
+1315,174,2024-03-17,Mangalore,Pizza Hut,South Indian,Chicken Pizza,4,226.83,21,CASH,2.0,3,Sunday,Fast
+1316,98,2024-02-22,Mangalore,Mcdonald'S,Dessert,Chicken Biryani,3,281.53,18,CARD,5.0,2,Thursday,Fast
+1317,282,2024-02-05,Bangalore,Empire,Fast Food,Fries,1,320.29,57,UPI,4.0,2,Monday,Late
+1318,103,2024-02-05,Mysuru,Domino'S,Dessert,Cheese Pizza,4,693.76,34,CARD,4.0,2,Monday,Normal
+1319,251,2024-02-05,Bangalore,Mcdonald'S,South Indian,Chicken Pizza,3,722.14,38,CARD,4.0,2,Monday,Normal
+1320,23,2024-02-05,Mangalore,Kfc,Biryani,Chicken Biryani,1,222.77,59,UPI,1.0,2,Monday,Late
+1321,177,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Fries,4,776.63,58,CARD,5.0,2,Monday,Late
+1322,121,2024-02-05,Bangalore,Empire,Fast Food,Dosa,2,201.79,63,CARD,2.0,2,Monday,Late
+1323,86,2024-02-05,Bangalore,Pizza Hut,South Indian,Cheese Pizza,4,257.31,67,CARD,5.0,2,Monday,Late
+1324,133,2024-02-10,Bangalore,Pizza Hut,South Indian,Dosa,4,495.4,69,CASH,5.0,2,Saturday,Late
+1325,235,2024-01-02,Mangalore,Empire,Fast Food,Fries,2,220.78,52,UPI,1.0,1,Tuesday,Late
+1326,55,2024-02-05,Mysuru,Mcdonald'S,Dessert,Fries,3,380.47,46,UPI,5.0,2,Monday,Late
+1327,243,2024-02-05,Mysuru,Empire,Biryani,Paneer Curry,4,146.37,36,CARD,1.0,2,Monday,Normal
+1328,244,2024-02-05,Bangalore,Empire,Dessert,Chicken Biryani,3,693.14,69,UPI,2.0,2,Monday,Late
+1329,69,2024-02-08,Mangalore,Empire,Dessert,Fries,1,247.8,28,CARD,2.9847560975609757,2,Thursday,Fast
+1330,249,2024-02-05,Bangalore,Mcdonald'S,Biryani,Cheese Pizza,3,602.51,40,CARD,5.0,2,Monday,Normal
+1331,292,2024-02-05,Mysuru,Domino'S,Fast Food,Veg Biryani,1,430.39,38,CARD,3.0,2,Monday,Normal
+1332,189,2024-02-29,Hubli,Pizza Hut,Fast Food,Veg Biryani,3,452.37,43,CARD,4.0,2,Thursday,Normal
+1333,283,2024-02-05,Bangalore,Kfc,Fast Food,Chicken Biryani,1,382.86,25,UPI,2.0,2,Monday,Fast
+1334,114,2024-02-05,Mysuru,Kfc,South Indian,Dosa,1,707.95,64,UPI,4.0,2,Monday,Late
+1335,68,2024-02-05,Bangalore,Domino'S,Dessert,Paneer Curry,3,604.66,60,CASH,4.0,2,Monday,Late
+1336,193,2024-02-05,Mysuru,Domino'S,South Indian,Chicken Biryani,4,517.45,15,UPI,2.9847560975609757,2,Monday,Fast
+1337,192,2024-03-12,Mysuru,Kfc,Fast Food,Garlic Bread,1,348.67,32,CASH,3.0,3,Tuesday,Normal
+1338,134,2024-03-24,Mysuru,Domino'S,Biryani,Dosa,2,731.79,66,UPI,4.0,3,Sunday,Late
+1339,164,2024-02-05,Bangalore,Mcdonald'S,Dessert,Chicken Biryani,4,395.13,62,UPI,5.0,2,Monday,Late
+1340,293,2024-02-05,Mysuru,Mcdonald'S,South Indian,Burger,3,694.89,68,UPI,2.0,2,Monday,Late
+1341,151,2024-02-05,Bangalore,Kfc,North Indian,Chicken Pizza,3,565.02,29,CASH,2.0,2,Monday,Fast
+1342,158,2024-02-05,Hubli,Kfc,North Indian,Chicken Biryani,4,698.83,45,UPI,2.9847560975609757,2,Monday,Normal
+1343,299,2024-03-15,Bangalore,Mcdonald'S,Biryani,Dosa,1,709.9,39,UPI,3.0,3,Friday,Normal
+1344,212,2024-02-05,Bangalore,Domino'S,Dessert,Fries,4,217.39,70,CARD,1.0,2,Monday,Late
+1345,250,2024-02-12,Bangalore,Empire,Fast Food,Veg Pizza,4,306.0,63,CARD,5.0,2,Monday,Late
+1346,82,2024-02-05,Bangalore,Meghana Foods,South Indian,Fries,4,411.74,45,CARD,1.0,2,Monday,Normal
+1347,20,2024-02-05,Hubli,Pizza Hut,Dessert,Dosa,2,132.18,15,CARD,2.0,2,Monday,Fast
+1348,177,2024-02-05,Bangalore,Empire,North Indian,Paneer Curry,3,233.57,67,UPI,3.0,2,Monday,Late
+1349,149,2024-02-28,Mangalore,Meghana Foods,North Indian,Burger,4,723.82,23,CASH,4.0,2,Wednesday,Fast
+1350,184,2024-02-05,Hubli,Pizza Hut,Biryani,Veg Biryani,2,263.61,16,UPI,5.0,2,Monday,Fast
+1351,87,2024-02-05,Bangalore,Empire,Dessert,Dosa,1,523.87,18,UPI,2.9847560975609757,2,Monday,Fast
+1352,11,2024-01-07,Bangalore,Empire,South Indian,Fries,1,492.15,45,CARD,2.0,1,Sunday,Normal
+1353,5,2024-02-05,Bangalore,Mcdonald'S,Dessert,Paneer Curry,2,404.8,21,UPI,2.9847560975609757,2,Monday,Fast
+1354,61,2024-02-05,Bangalore,Mcdonald'S,Biryani,Paneer Curry,2,649.01,68,UPI,2.0,2,Monday,Late
+1355,184,2024-02-05,Mysuru,Domino'S,Fast Food,Dosa,4,739.04,59,CARD,3.0,2,Monday,Late
+1356,121,2024-02-05,Bangalore,Pizza Hut,North Indian,Garlic Bread,2,765.62,64,UPI,1.0,2,Monday,Late
+1357,52,2024-02-02,Mysuru,Mcdonald'S,Dessert,Chicken Biryani,4,154.05,67,CARD,1.0,2,Friday,Late
+1358,149,2024-02-16,Hubli,Empire,Fast Food,Cheese Pizza,1,126.58,23,CARD,3.0,2,Friday,Fast
+1359,184,2024-02-26,Mysuru,Pizza Hut,Dessert,Burger,2,197.41,40,CARD,3.0,2,Monday,Normal
+1360,198,2024-02-05,Hubli,Domino'S,Fast Food,Chicken Pizza,1,787.47,69,CARD,1.0,2,Monday,Late
+1361,214,2024-02-05,Mangalore,Domino'S,North Indian,Fries,3,535.72,70,CARD,4.0,2,Monday,Late
+1362,250,2024-02-05,Mangalore,Pizza Hut,Fast Food,Chicken Biryani,3,128.4,70,UPI,2.9847560975609757,2,Monday,Late
+1363,296,2024-02-05,Hubli,Mcdonald'S,North Indian,Paneer Curry,1,414.34,61,CARD,4.0,2,Monday,Late
+1364,178,2024-03-25,Hubli,Domino'S,North Indian,Paneer Curry,1,127.92,25,UPI,4.0,3,Monday,Fast
+1365,254,2024-02-05,Mangalore,Empire,Biryani,Burger,3,154.24,29,UPI,2.9847560975609757,2,Monday,Fast
+1366,194,2024-02-05,Bangalore,Mcdonald'S,South Indian,Paneer Curry,4,179.85,46,CARD,3.0,2,Monday,Late
+1367,61,2024-03-04,Bangalore,Pizza Hut,South Indian,Fries,1,498.85,15,UPI,5.0,3,Monday,Fast
+1368,156,2024-03-06,Mysuru,Mcdonald'S,Dessert,Burger,1,675.28,69,CARD,3.0,3,Wednesday,Late
+1369,287,2024-03-20,Mangalore,Empire,South Indian,Cheese Pizza,1,636.34,29,UPI,3.0,3,Wednesday,Fast
+1370,182,2024-02-05,Mangalore,Mcdonald'S,Dessert,Cheese Pizza,1,729.88,46,CARD,2.9847560975609757,2,Monday,Late
+1371,210,2024-02-05,Mysuru,Domino'S,Fast Food,Fries,2,430.79,65,CARD,2.9847560975609757,2,Monday,Late
+1372,174,2024-02-05,Bangalore,Meghana Foods,Fast Food,Garlic Bread,4,567.75,47,CARD,4.0,2,Monday,Late
+1373,3,2024-03-08,Bangalore,Mcdonald'S,South Indian,Paneer Curry,4,748.57,64,CARD,2.9847560975609757,3,Friday,Late
+1374,297,2024-01-23,Bangalore,Pizza Hut,South Indian,Paneer Curry,3,462.79,39,CARD,5.0,1,Tuesday,Normal
+1375,128,2024-02-05,Hubli,Kfc,South Indian,Chicken Pizza,2,400.67,59,UPI,3.0,2,Monday,Late
+1376,281,2024-02-10,Mangalore,Domino'S,Biryani,Veg Biryani,3,586.9,58,CARD,2.9847560975609757,2,Saturday,Late
+1377,92,2024-03-05,Hubli,Pizza Hut,Dessert,Dosa,4,516.31,57,CARD,2.9847560975609757,3,Tuesday,Late
+1378,274,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Veg Pizza,4,218.82,57,UPI,2.0,2,Monday,Late
+1379,137,2024-02-05,Mysuru,Domino'S,Fast Food,Chicken Biryani,2,632.44,17,CASH,4.0,2,Monday,Fast
+1380,53,2024-03-19,Mangalore,Domino'S,North Indian,Fries,2,467.43,65,CASH,2.9847560975609757,3,Tuesday,Late
+1381,25,2024-02-05,Hubli,Empire,North Indian,Veg Pizza,1,625.7,27,UPI,4.0,2,Monday,Fast
+1382,116,2024-03-22,Hubli,Meghana Foods,North Indian,Paneer Curry,2,647.78,27,CASH,4.0,3,Friday,Fast
+1383,91,2024-02-05,Bangalore,Domino'S,North Indian,Cheese Pizza,4,147.63,32,UPI,3.0,2,Monday,Normal
+1384,67,2024-01-21,Mysuru,Pizza Hut,Dessert,Garlic Bread,2,147.16,35,UPI,1.0,1,Sunday,Normal
+1385,155,2024-03-03,Mangalore,Empire,Fast Food,Burger,2,770.75,48,UPI,5.0,3,Sunday,Late
+1386,82,2024-02-23,Mangalore,Empire,Fast Food,Burger,2,720.71,57,CASH,3.0,2,Friday,Late
+1387,185,2024-02-05,Mangalore,Mcdonald'S,North Indian,Veg Pizza,1,574.88,43,CARD,2.9847560975609757,2,Monday,Normal
+1388,125,2024-01-06,Hubli,Empire,Fast Food,Fries,3,487.36,33,UPI,5.0,1,Saturday,Normal
+1389,192,2024-03-06,Mangalore,Mcdonald'S,Fast Food,Chicken Biryani,2,337.81,20,UPI,2.0,3,Wednesday,Fast
+1390,276,2024-02-05,Bangalore,Domino'S,Biryani,Fries,1,259.79,68,CARD,2.9847560975609757,2,Monday,Late
+1391,37,2024-02-05,Bangalore,Mcdonald'S,Dessert,Veg Pizza,1,169.81,26,CASH,5.0,2,Monday,Fast
+1392,37,2024-02-05,Mysuru,Empire,South Indian,Garlic Bread,4,414.46,16,CARD,2.9847560975609757,2,Monday,Fast
+1393,61,2024-02-05,Bangalore,Meghana Foods,Fast Food,Cheese Pizza,3,751.07,21,CASH,2.9847560975609757,2,Monday,Fast
+1394,155,2024-02-05,Mysuru,Mcdonald'S,South Indian,Fries,1,442.31,49,CARD,2.0,2,Monday,Late
+1395,201,2024-02-05,Bangalore,Kfc,Dessert,Veg Pizza,2,203.8,15,UPI,5.0,2,Monday,Fast
+1396,202,2024-03-09,Bangalore,Kfc,Biryani,Burger,2,400.61,56,UPI,2.0,3,Saturday,Late
+1397,83,2024-02-05,Mysuru,Domino'S,Fast Food,Chicken Pizza,1,698.94,50,CARD,2.9847560975609757,2,Monday,Late
+1398,282,2024-02-05,Bangalore,Kfc,Fast Food,Veg Biryani,4,767.05,37,CARD,2.9847560975609757,2,Monday,Normal
+1399,121,2024-02-05,Bangalore,Domino'S,Dessert,Garlic Bread,4,343.28,57,CASH,2.9847560975609757,2,Monday,Late
+1400,300,2024-01-20,Hubli,Empire,South Indian,Chicken Pizza,1,332.99,65,CARD,2.9847560975609757,1,Saturday,Late
+1401,224,2024-02-05,Bangalore,Empire,South Indian,Garlic Bread,4,363.94,34,CARD,5.0,2,Monday,Normal
+1402,56,2024-01-23,Bangalore,Kfc,Biryani,Dosa,2,299.0,55,UPI,2.9847560975609757,1,Tuesday,Late
+1403,39,2024-01-03,Bangalore,Meghana Foods,North Indian,Fries,2,736.29,50,CASH,5.0,1,Wednesday,Late
+1404,277,2024-03-01,Bangalore,Empire,South Indian,Veg Biryani,3,211.04,47,UPI,1.0,3,Friday,Late
+1405,204,2024-02-16,Bangalore,Domino'S,North Indian,Chicken Pizza,2,423.43,26,UPI,5.0,2,Friday,Fast
+1406,75,2024-02-05,Bangalore,Domino'S,South Indian,Veg Biryani,1,299.76,29,UPI,2.9847560975609757,2,Monday,Fast
+1407,106,2024-02-05,Hubli,Mcdonald'S,South Indian,Veg Pizza,1,786.8,35,UPI,2.9847560975609757,2,Monday,Normal
+1408,267,2024-02-05,Mysuru,Meghana Foods,North Indian,Paneer Curry,2,376.13,39,CASH,5.0,2,Monday,Normal
+1409,40,2024-02-05,Hubli,Domino'S,North Indian,Fries,3,675.72,37,CARD,4.0,2,Monday,Normal
+1410,4,2024-02-05,Mangalore,Domino'S,Biryani,Cheese Pizza,3,263.83,26,CARD,3.0,2,Monday,Fast
+1411,61,2024-02-05,Hubli,Empire,Fast Food,Garlic Bread,4,445.73,52,CARD,2.9847560975609757,2,Monday,Late
+1412,211,2024-02-05,Bangalore,Domino'S,North Indian,Paneer Curry,2,211.61,47,UPI,5.0,2,Monday,Late
+1413,76,2024-02-05,Mysuru,Domino'S,North Indian,Fries,1,717.39,61,CASH,1.0,2,Monday,Late
+1414,111,2024-02-27,Mangalore,Mcdonald'S,Biryani,Veg Biryani,4,528.57,65,UPI,2.0,2,Tuesday,Late
+1415,262,2024-02-05,Hubli,Mcdonald'S,North Indian,Paneer Curry,1,276.27,39,CARD,1.0,2,Monday,Normal
+1416,9,2024-01-26,Mangalore,Empire,Biryani,Paneer Curry,1,240.65,54,UPI,1.0,1,Friday,Late
+1417,273,2024-02-05,Bangalore,Mcdonald'S,Biryani,Paneer Curry,1,729.94,64,CARD,5.0,2,Monday,Late
+1418,216,2024-02-05,Mangalore,Empire,Biryani,Garlic Bread,4,358.35,66,UPI,1.0,2,Monday,Late
+1419,218,2024-02-05,Mangalore,Domino'S,Fast Food,Chicken Biryani,4,295.31,15,UPI,5.0,2,Monday,Fast
+1420,268,2024-01-16,Bangalore,Empire,Biryani,Burger,4,366.34,24,CARD,2.9847560975609757,1,Tuesday,Fast
+1421,300,2024-02-05,Mangalore,Empire,North Indian,Burger,3,794.42,40,CARD,4.0,2,Monday,Normal
+1422,283,2024-02-05,Bangalore,Empire,North Indian,Dosa,4,292.57,34,UPI,3.0,2,Monday,Normal
+1423,204,2024-01-18,Bangalore,Domino'S,South Indian,Chicken Pizza,1,265.83,40,CASH,5.0,1,Thursday,Normal
+1424,27,2024-02-05,Bangalore,Pizza Hut,Biryani,Garlic Bread,4,179.94,31,CARD,3.0,2,Monday,Normal
+1425,41,2024-02-05,Hubli,Empire,North Indian,Dosa,3,603.89,53,UPI,2.0,2,Monday,Late
+1426,254,2024-02-05,Mysuru,Mcdonald'S,Dessert,Veg Biryani,1,653.09,47,UPI,2.9847560975609757,2,Monday,Late
+1427,119,2024-02-05,Bangalore,Empire,Biryani,Veg Pizza,2,179.05,32,CARD,3.0,2,Monday,Normal
+1428,203,2024-02-21,Mysuru,Mcdonald'S,Fast Food,Cheese Pizza,1,493.72,61,UPI,5.0,2,Wednesday,Late
+1429,179,2024-02-05,Mysuru,Meghana Foods,Biryani,Garlic Bread,4,510.94,31,CARD,4.0,2,Monday,Normal
+1430,260,2024-01-14,Bangalore,Mcdonald'S,Dessert,Burger,1,666.0,31,UPI,5.0,1,Sunday,Normal
+1431,129,2024-02-05,Hubli,Meghana Foods,South Indian,Veg Biryani,3,773.64,44,CARD,5.0,2,Monday,Normal
+1432,15,2024-02-05,Mysuru,Pizza Hut,South Indian,Veg Biryani,2,664.11,41,CASH,5.0,2,Monday,Normal
+1433,275,2024-01-02,Mysuru,Domino'S,Dessert,Cheese Pizza,4,578.11,67,CASH,1.0,1,Tuesday,Late
+1434,284,2024-02-05,Hubli,Empire,Biryani,Paneer Curry,3,244.29,62,CARD,4.0,2,Monday,Late
+1435,103,2024-01-31,Mysuru,Kfc,Biryani,Veg Biryani,2,687.76,68,UPI,3.0,1,Wednesday,Late
+1436,80,2024-02-05,Bangalore,Mcdonald'S,North Indian,Veg Pizza,1,696.65,38,UPI,3.0,2,Monday,Normal
+1437,253,2024-02-05,Mangalore,Domino'S,North Indian,Chicken Biryani,4,271.02,51,CARD,1.0,2,Monday,Late
+1438,270,2024-02-05,Mangalore,Pizza Hut,North Indian,Burger,4,705.07,64,CARD,4.0,2,Monday,Late
+1439,62,2024-03-30,Mangalore,Empire,Fast Food,Veg Pizza,2,378.01,21,CASH,3.0,3,Saturday,Fast
+1440,133,2024-01-24,Mysuru,Domino'S,Dessert,Garlic Bread,3,368.83,46,CARD,2.0,1,Wednesday,Late
+1441,215,2024-02-05,Hubli,Empire,Dessert,Garlic Bread,2,508.56,51,CARD,1.0,2,Monday,Late
+1442,139,2024-01-31,Hubli,Empire,Biryani,Chicken Pizza,2,441.63,15,CARD,4.0,1,Wednesday,Fast
+1443,256,2024-01-18,Mangalore,Mcdonald'S,Dessert,Garlic Bread,3,290.66,69,UPI,1.0,1,Thursday,Late
+1444,204,2024-01-13,Bangalore,Pizza Hut,Biryani,Chicken Biryani,4,690.5,21,CARD,2.9847560975609757,1,Saturday,Fast
+1445,172,2024-02-05,Hubli,Mcdonald'S,North Indian,Chicken Biryani,3,133.49,22,CASH,2.9847560975609757,2,Monday,Fast
+1446,102,2024-03-14,Mangalore,Domino'S,Dessert,Burger,3,577.77,46,CARD,1.0,3,Thursday,Late
+1447,196,2024-02-05,Mangalore,Domino'S,Biryani,Burger,4,549.27,51,CARD,1.0,2,Monday,Late
+1448,41,2024-02-05,Mysuru,Empire,Dessert,Chicken Biryani,3,531.66,40,CASH,4.0,2,Monday,Normal
+1449,186,2024-03-16,Mangalore,Empire,Biryani,Chicken Pizza,1,205.03,30,CASH,2.9847560975609757,3,Saturday,Normal
+1450,41,2024-02-05,Hubli,Pizza Hut,Fast Food,Cheese Pizza,4,492.93,16,CARD,5.0,2,Monday,Fast
+1451,43,2024-02-05,Bangalore,Pizza Hut,South Indian,Chicken Biryani,2,288.23,33,CARD,2.9847560975609757,2,Monday,Normal
+1452,65,2024-01-17,Bangalore,Pizza Hut,Fast Food,Burger,3,707.68,44,UPI,3.0,1,Wednesday,Normal
+1453,281,2024-02-05,Mangalore,Domino'S,North Indian,Paneer Curry,4,549.11,55,UPI,4.0,2,Monday,Late
+1454,269,2024-03-22,Mangalore,Kfc,Dessert,Garlic Bread,2,667.2,43,CASH,3.0,3,Friday,Normal
+1455,212,2024-02-05,Mysuru,Pizza Hut,Fast Food,Dosa,2,353.84,45,UPI,1.0,2,Monday,Normal
+1456,252,2024-02-05,Bangalore,Empire,Dessert,Paneer Curry,2,661.8,50,CASH,2.0,2,Monday,Late
+1457,211,2024-02-05,Hubli,Domino'S,Biryani,Fries,4,270.0,20,CARD,2.9847560975609757,2,Monday,Fast
+1458,123,2024-03-07,Mysuru,Kfc,North Indian,Chicken Biryani,4,247.84,19,CARD,2.0,3,Thursday,Fast
+1459,149,2024-01-15,Mangalore,Meghana Foods,South Indian,Chicken Biryani,4,247.7,16,CARD,1.0,1,Monday,Fast
+1460,274,2024-02-05,Bangalore,Kfc,Dessert,Chicken Pizza,4,614.43,29,UPI,2.0,2,Monday,Fast
+1461,8,2024-02-05,Hubli,Empire,Dessert,Garlic Bread,3,435.31,65,UPI,3.0,2,Monday,Late
+1462,42,2024-02-05,Mysuru,Empire,Fast Food,Dosa,4,243.49,68,CASH,4.0,2,Monday,Late
+1463,7,2024-01-16,Mysuru,Empire,South Indian,Veg Biryani,1,255.44,62,UPI,5.0,1,Tuesday,Late
+1464,107,2024-02-05,Mysuru,Empire,Biryani,Veg Pizza,1,292.25,55,CASH,2.0,2,Monday,Late
+1465,185,2024-01-07,Mysuru,Pizza Hut,Biryani,Fries,3,130.25,65,CASH,5.0,1,Sunday,Late
+1466,62,2024-02-05,Bangalore,Pizza Hut,North Indian,Garlic Bread,2,372.55,20,CARD,2.0,2,Monday,Fast
+1467,256,2024-01-12,Hubli,Pizza Hut,Fast Food,Burger,2,596.9,65,UPI,2.0,1,Friday,Late
+1468,250,2024-02-05,Mangalore,Empire,South Indian,Veg Biryani,1,588.69,37,CARD,3.0,2,Monday,Normal
+1469,21,2024-03-03,Mangalore,Mcdonald'S,Dessert,Dosa,4,249.05,26,UPI,3.0,3,Sunday,Fast
+1470,166,2024-02-05,Mangalore,Domino'S,Fast Food,Dosa,2,425.58,67,CASH,5.0,2,Monday,Late
+1471,188,2024-02-05,Mangalore,Empire,Biryani,Veg Pizza,3,647.69,30,CASH,2.9847560975609757,2,Monday,Normal
+1472,33,2024-03-25,Hubli,Domino'S,North Indian,Garlic Bread,2,536.87,35,CARD,2.9847560975609757,3,Monday,Normal
+1473,165,2024-02-05,Mangalore,Pizza Hut,Fast Food,Chicken Pizza,2,713.98,27,UPI,4.0,2,Monday,Fast
+1474,99,2024-02-05,Hubli,Mcdonald'S,North Indian,Paneer Curry,3,153.38,29,UPI,2.9847560975609757,2,Monday,Fast
+1475,37,2024-02-05,Mangalore,Pizza Hut,South Indian,Veg Pizza,3,499.45,41,CASH,2.9847560975609757,2,Monday,Normal
+1476,30,2024-02-05,Mangalore,Pizza Hut,Fast Food,Chicken Biryani,1,762.33,48,UPI,1.0,2,Monday,Late
+1477,119,2024-02-05,Mysuru,Domino'S,North Indian,Veg Biryani,2,499.73,50,CARD,2.9847560975609757,2,Monday,Late
+1478,55,2024-03-22,Hubli,Mcdonald'S,South Indian,Cheese Pizza,2,658.87,50,CARD,5.0,3,Friday,Late
+1479,173,2024-02-05,Mangalore,Meghana Foods,South Indian,Burger,3,494.06,35,CASH,4.0,2,Monday,Normal
+1480,221,2024-02-11,Mysuru,Meghana Foods,North Indian,Veg Biryani,4,640.68,62,CASH,3.0,2,Sunday,Late
+1481,232,2024-02-05,Bangalore,Pizza Hut,Dessert,Paneer Curry,1,471.97,34,UPI,3.0,2,Monday,Normal
+1482,114,2024-02-05,Bangalore,Kfc,North Indian,Dosa,2,184.12,44,CASH,2.0,2,Monday,Normal
+1483,71,2024-02-05,Mysuru,Domino'S,Dessert,Chicken Biryani,1,507.93,51,CARD,2.9847560975609757,2,Monday,Late
+1484,40,2024-02-05,Bangalore,Mcdonald'S,North Indian,Cheese Pizza,3,145.41,66,UPI,4.0,2,Monday,Late
+1485,41,2024-02-05,Hubli,Empire,South Indian,Cheese Pizza,2,628.42,69,UPI,1.0,2,Monday,Late
+1486,196,2024-02-05,Mangalore,Pizza Hut,Dessert,Dosa,2,342.25,59,CARD,2.0,2,Monday,Late
+1487,26,2024-03-27,Hubli,Mcdonald'S,North Indian,Paneer Curry,1,271.02,33,CARD,2.0,3,Wednesday,Normal
+1488,68,2024-02-05,Mangalore,Meghana Foods,Fast Food,Dosa,4,298.54,40,UPI,4.0,2,Monday,Normal
+1489,67,2024-02-05,Mangalore,Domino'S,South Indian,Fries,2,501.59,62,UPI,2.0,2,Monday,Late
+1490,125,2024-02-05,Hubli,Empire,North Indian,Cheese Pizza,1,576.79,42,CASH,3.0,2,Monday,Normal
+1491,98,2024-02-05,Bangalore,Kfc,Biryani,Burger,4,543.76,43,UPI,2.0,2,Monday,Normal
+1492,103,2024-02-05,Bangalore,Pizza Hut,Fast Food,Veg Pizza,2,765.28,24,CASH,1.0,2,Monday,Fast
+1493,176,2024-02-05,Mysuru,Mcdonald'S,South Indian,Veg Pizza,3,262.13,49,CARD,2.0,2,Monday,Late
+1494,280,2024-02-05,Mangalore,Mcdonald'S,North Indian,Chicken Pizza,1,376.09,57,UPI,1.0,2,Monday,Late
+1495,131,2024-02-05,Mysuru,Domino'S,North Indian,Chicken Biryani,1,436.17,15,UPI,4.0,2,Monday,Fast
+1496,139,2024-03-25,Hubli,Pizza Hut,Fast Food,Chicken Biryani,4,277.19,39,UPI,2.9847560975609757,3,Monday,Normal
+1497,51,2024-02-05,Mangalore,Pizza Hut,Biryani,Veg Biryani,4,501.27,60,UPI,1.0,2,Monday,Late
+1498,127,2024-02-05,Hubli,Mcdonald'S,South Indian,Chicken Pizza,1,355.81,37,CASH,2.9847560975609757,2,Monday,Normal
+1499,155,2024-01-31,Mysuru,Pizza Hut,Dessert,Fries,1,762.01,32,CARD,2.0,1,Wednesday,Normal
+1500,175,2024-02-20,Bangalore,Pizza Hut,South Indian,Dosa,2,403.79,51,CARD,4.0,2,Tuesday,Late
+1501,160,2024-02-05,Mangalore,Mcdonald'S,Biryani,Veg Biryani,2,515.1,58,CARD,2.0,2,Monday,Late
+1502,159,2024-03-29,Mangalore,Domino'S,South Indian,Chicken Pizza,2,335.9,50,UPI,2.9847560975609757,3,Friday,Late
+1503,61,2024-02-05,Bangalore,Pizza Hut,Dessert,Fries,4,326.28,62,CASH,2.0,2,Monday,Late
+1504,97,2024-02-05,Bangalore,Pizza Hut,North Indian,Paneer Curry,3,531.81,54,CARD,5.0,2,Monday,Late
+1505,119,2024-01-30,Bangalore,Empire,Fast Food,Garlic Bread,2,461.58,53,CARD,2.9847560975609757,1,Tuesday,Late
+1506,192,2024-02-05,Mangalore,Mcdonald'S,Biryani,Chicken Pizza,2,273.87,41,UPI,3.0,2,Monday,Normal
+1507,212,2024-01-29,Mysuru,Domino'S,Fast Food,Chicken Pizza,4,709.65,46,CASH,4.0,1,Monday,Late
+1508,127,2024-02-05,Bangalore,Meghana Foods,South Indian,Burger,4,535.82,62,UPI,5.0,2,Monday,Late
+1509,275,2024-03-08,Bangalore,Mcdonald'S,Fast Food,Garlic Bread,4,682.37,17,CARD,5.0,3,Friday,Fast
+1510,276,2024-02-20,Bangalore,Mcdonald'S,South Indian,Dosa,1,249.1,43,CARD,3.0,2,Tuesday,Normal
+1511,147,2024-02-05,Hubli,Kfc,North Indian,Veg Pizza,2,435.23,56,CARD,1.0,2,Monday,Late
+1512,257,2024-02-05,Mangalore,Domino'S,South Indian,Fries,3,426.6,26,CARD,5.0,2,Monday,Fast
+1513,104,2024-02-05,Mysuru,Empire,Biryani,Cheese Pizza,1,197.63,43,CASH,1.0,2,Monday,Normal
+1514,269,2024-02-05,Mangalore,Meghana Foods,Biryani,Fries,4,149.86,25,CASH,5.0,2,Monday,Fast
+1515,77,2024-02-05,Bangalore,Pizza Hut,South Indian,Chicken Biryani,3,616.51,43,CASH,2.9847560975609757,2,Monday,Normal
+1516,93,2024-02-05,Mysuru,Pizza Hut,North Indian,Chicken Biryani,1,431.88,69,CARD,5.0,2,Monday,Late
+1517,3,2024-02-05,Mysuru,Domino'S,North Indian,Garlic Bread,4,398.9,20,UPI,5.0,2,Monday,Fast
+1518,4,2024-02-01,Mysuru,Meghana Foods,North Indian,Veg Biryani,1,245.69,18,CASH,1.0,2,Thursday,Fast
+1519,75,2024-01-05,Mysuru,Empire,Fast Food,Veg Pizza,1,403.53,26,CARD,2.9847560975609757,1,Friday,Fast
+1520,146,2024-03-19,Mangalore,Domino'S,South Indian,Paneer Curry,3,753.41,20,CASH,3.0,3,Tuesday,Fast
+1521,189,2024-02-05,Hubli,Mcdonald'S,Fast Food,Chicken Biryani,4,211.49,59,CASH,3.0,2,Monday,Late
+1522,270,2024-02-22,Mysuru,Domino'S,North Indian,Veg Pizza,1,508.53,55,UPI,1.0,2,Thursday,Late
+1523,248,2024-03-29,Mysuru,Empire,North Indian,Burger,3,477.27,54,CASH,2.0,3,Friday,Late
+1524,289,2024-03-04,Mangalore,Mcdonald'S,Biryani,Paneer Curry,2,601.84,27,UPI,1.0,3,Monday,Fast
+1525,13,2024-02-29,Bangalore,Domino'S,North Indian,Fries,4,150.93,37,UPI,2.9847560975609757,2,Thursday,Normal
+1526,109,2024-01-02,Mysuru,Kfc,Dessert,Cheese Pizza,3,324.19,50,CASH,1.0,1,Tuesday,Late
+1527,59,2024-02-05,Hubli,Empire,North Indian,Paneer Curry,1,685.79,27,CASH,3.0,2,Monday,Fast
+1528,246,2024-02-05,Bangalore,Mcdonald'S,Biryani,Garlic Bread,3,434.48,67,CARD,2.9847560975609757,2,Monday,Late
+1529,29,2024-02-05,Hubli,Mcdonald'S,North Indian,Veg Pizza,2,512.63,36,CASH,1.0,2,Monday,Normal
+1530,77,2024-02-05,Hubli,Empire,North Indian,Chicken Pizza,4,247.42,22,CASH,2.9847560975609757,2,Monday,Fast
+1531,162,2024-02-05,Mysuru,Empire,Fast Food,Garlic Bread,2,372.68,68,CASH,2.0,2,Monday,Late
+1532,269,2024-02-05,Bangalore,Empire,Fast Food,Veg Biryani,1,421.77,16,CARD,5.0,2,Monday,Fast
+1533,79,2024-02-05,Mangalore,Mcdonald'S,Dessert,Burger,2,643.25,21,UPI,2.9847560975609757,2,Monday,Fast
+1534,68,2024-01-27,Bangalore,Mcdonald'S,South Indian,Dosa,1,122.79,17,UPI,1.0,1,Saturday,Fast
+1535,171,2024-02-05,Bangalore,Mcdonald'S,Dessert,Veg Pizza,3,554.42,28,CASH,2.0,2,Monday,Fast
+1536,99,2024-02-05,Mangalore,Empire,South Indian,Cheese Pizza,3,221.54,32,UPI,1.0,2,Monday,Normal
+1537,287,2024-02-05,Mysuru,Mcdonald'S,Dessert,Dosa,3,304.32,60,CASH,5.0,2,Monday,Late
+1538,126,2024-02-05,Mysuru,Meghana Foods,Dessert,Dosa,4,154.49,16,CARD,2.9847560975609757,2,Monday,Fast
+1539,26,2024-02-05,Bangalore,Pizza Hut,South Indian,Fries,2,599.18,52,CARD,5.0,2,Monday,Late
+1540,183,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Garlic Bread,2,183.18,66,CARD,1.0,2,Monday,Late
+1541,234,2024-02-09,Mangalore,Mcdonald'S,Biryani,Veg Biryani,2,705.55,54,CASH,3.0,2,Friday,Late
+1542,201,2024-01-24,Hubli,Empire,South Indian,Garlic Bread,1,164.45,22,CASH,4.0,1,Wednesday,Fast
+1543,237,2024-02-05,Hubli,Meghana Foods,North Indian,Chicken Pizza,1,395.87,60,UPI,3.0,2,Monday,Late
+1544,285,2024-02-05,Mysuru,Mcdonald'S,South Indian,Fries,4,282.23,30,UPI,2.0,2,Monday,Normal
+1545,247,2024-02-05,Hubli,Domino'S,North Indian,Fries,4,505.7,36,UPI,2.9847560975609757,2,Monday,Normal
+1546,121,2024-01-23,Bangalore,Meghana Foods,South Indian,Cheese Pizza,4,341.26,21,CARD,2.0,1,Tuesday,Fast
+1547,158,2024-02-05,Bangalore,Meghana Foods,South Indian,Burger,4,558.59,18,UPI,2.0,2,Monday,Fast
+1548,72,2024-03-15,Bangalore,Domino'S,Biryani,Garlic Bread,3,385.19,51,CARD,2.0,3,Friday,Late
+1549,106,2024-02-05,Mysuru,Meghana Foods,Dessert,Fries,3,793.4,52,UPI,5.0,2,Monday,Late
+1550,262,2024-02-05,Mysuru,Pizza Hut,Dessert,Dosa,1,120.57,50,CASH,1.0,2,Monday,Late
+1551,145,2024-02-05,Hubli,Meghana Foods,South Indian,Burger,4,396.1,42,UPI,2.0,2,Monday,Normal
+1552,89,2024-02-05,Mysuru,Mcdonald'S,South Indian,Burger,4,224.9,70,CARD,2.0,2,Monday,Late
+1553,6,2024-01-10,Bangalore,Domino'S,South Indian,Fries,2,177.57,56,CARD,4.0,1,Wednesday,Late
+1554,218,2024-02-05,Mangalore,Mcdonald'S,South Indian,Dosa,4,381.61,29,CARD,4.0,2,Monday,Fast
+1555,4,2024-02-05,Mysuru,Mcdonald'S,Dessert,Fries,3,142.75,17,UPI,4.0,2,Monday,Fast
+1556,189,2024-01-15,Mangalore,Pizza Hut,Biryani,Dosa,3,436.16,20,UPI,5.0,1,Monday,Fast
+1557,46,2024-02-05,Bangalore,Mcdonald'S,North Indian,Chicken Biryani,1,734.44,49,UPI,4.0,2,Monday,Late
+1558,233,2024-02-05,Hubli,Empire,Dessert,Chicken Biryani,3,233.91,59,UPI,2.9847560975609757,2,Monday,Late
+1559,156,2024-02-05,Bangalore,Mcdonald'S,North Indian,Chicken Pizza,1,566.3,33,UPI,1.0,2,Monday,Normal
+1560,147,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Chicken Biryani,3,210.13,32,CASH,3.0,2,Monday,Normal
+1561,8,2024-01-15,Bangalore,Meghana Foods,Biryani,Garlic Bread,3,669.33,31,CARD,4.0,1,Monday,Normal
+1562,93,2024-02-05,Hubli,Pizza Hut,Biryani,Paneer Curry,2,689.58,63,CARD,4.0,2,Monday,Late
+1563,122,2024-02-05,Bangalore,Domino'S,North Indian,Burger,1,556.74,63,UPI,1.0,2,Monday,Late
+1564,86,2024-02-05,Mangalore,Kfc,South Indian,Dosa,2,378.26,60,CARD,4.0,2,Monday,Late
+1565,135,2024-01-19,Hubli,Pizza Hut,Dessert,Garlic Bread,4,581.38,48,UPI,1.0,1,Friday,Late
+1566,273,2024-02-05,Hubli,Meghana Foods,Dessert,Burger,3,301.62,21,CASH,2.9847560975609757,2,Monday,Fast
+1567,300,2024-02-05,Mysuru,Meghana Foods,Biryani,Dosa,3,580.85,26,CASH,5.0,2,Monday,Fast
+1568,6,2024-02-05,Bangalore,Pizza Hut,South Indian,Cheese Pizza,1,586.14,37,CARD,2.9847560975609757,2,Monday,Normal
+1569,146,2024-02-05,Bangalore,Pizza Hut,North Indian,Cheese Pizza,1,758.18,57,CARD,5.0,2,Monday,Late
+1570,63,2024-02-05,Bangalore,Meghana Foods,Biryani,Fries,2,729.28,59,CARD,3.0,2,Monday,Late
+1571,151,2024-02-29,Bangalore,Mcdonald'S,Dessert,Fries,3,294.99,64,UPI,3.0,2,Thursday,Late
+1572,32,2024-02-05,Hubli,Pizza Hut,Dessert,Chicken Biryani,2,419.59,46,CARD,5.0,2,Monday,Late
+1573,202,2024-01-23,Mangalore,Pizza Hut,Biryani,Dosa,4,268.5,56,UPI,4.0,1,Tuesday,Late
+1574,133,2024-02-05,Bangalore,Pizza Hut,North Indian,Chicken Biryani,4,132.76,46,CARD,2.9847560975609757,2,Monday,Late
+1575,1,2024-01-05,Hubli,Kfc,Biryani,Burger,4,510.76,47,CARD,4.0,1,Friday,Late
+1576,224,2024-02-21,Bangalore,Mcdonald'S,Biryani,Veg Pizza,4,768.83,67,CARD,1.0,2,Wednesday,Late
+1577,291,2024-02-05,Hubli,Kfc,South Indian,Veg Pizza,1,368.44,69,CASH,1.0,2,Monday,Late
+1578,236,2024-02-07,Mysuru,Domino'S,North Indian,Veg Pizza,4,569.3,34,CARD,1.0,2,Wednesday,Normal
+1579,184,2024-02-05,Mangalore,Domino'S,Biryani,Veg Pizza,2,137.25,52,CARD,4.0,2,Monday,Late
+1580,200,2024-01-09,Mysuru,Mcdonald'S,North Indian,Garlic Bread,1,145.19,18,CASH,2.9847560975609757,1,Tuesday,Fast
+1581,22,2024-02-05,Mysuru,Mcdonald'S,South Indian,Dosa,2,623.92,29,UPI,1.0,2,Monday,Fast
+1582,73,2024-03-03,Bangalore,Mcdonald'S,North Indian,Veg Pizza,2,596.88,23,UPI,2.0,3,Sunday,Fast
+1583,26,2024-02-05,Mangalore,Meghana Foods,Biryani,Paneer Curry,1,676.1,21,UPI,4.0,2,Monday,Fast
+1584,113,2024-02-05,Hubli,Empire,South Indian,Burger,1,783.58,51,UPI,2.0,2,Monday,Late
+1585,165,2024-02-05,Bangalore,Empire,Fast Food,Cheese Pizza,3,216.04,41,CARD,2.9847560975609757,2,Monday,Normal
+1586,190,2024-02-05,Mangalore,Domino'S,North Indian,Veg Pizza,2,187.98,69,UPI,4.0,2,Monday,Late
+1587,81,2024-02-05,Bangalore,Pizza Hut,Fast Food,Chicken Pizza,1,600.58,52,CASH,4.0,2,Monday,Late
+1588,244,2024-02-05,Mysuru,Domino'S,Dessert,Dosa,4,400.18,26,UPI,2.9847560975609757,2,Monday,Fast
+1589,20,2024-02-05,Mangalore,Meghana Foods,Fast Food,Chicken Biryani,3,404.77,50,CARD,2.0,2,Monday,Late
+1590,61,2024-02-05,Hubli,Mcdonald'S,North Indian,Veg Biryani,4,643.83,57,CARD,3.0,2,Monday,Late
+1591,28,2024-02-05,Bangalore,Mcdonald'S,South Indian,Chicken Pizza,2,575.7,17,UPI,2.9847560975609757,2,Monday,Fast
+1592,187,2024-02-05,Hubli,Kfc,Dessert,Paneer Curry,4,149.46,62,UPI,5.0,2,Monday,Late
+1593,91,2024-02-05,Mangalore,Mcdonald'S,Fast Food,Cheese Pizza,2,610.55,52,UPI,3.0,2,Monday,Late
+1594,215,2024-01-26,Hubli,Domino'S,Fast Food,Burger,2,186.68,62,CARD,2.0,1,Friday,Late
+1595,193,2024-02-05,Mangalore,Meghana Foods,South Indian,Veg Pizza,4,218.56,54,CARD,2.0,2,Monday,Late
+1596,199,2024-02-05,Mangalore,Domino'S,Dessert,Chicken Biryani,2,348.41,17,UPI,1.0,2,Monday,Fast
+1597,144,2024-02-05,Mangalore,Mcdonald'S,South Indian,Chicken Pizza,3,269.5,33,UPI,2.0,2,Monday,Normal
+1598,88,2024-03-14,Mysuru,Pizza Hut,South Indian,Dosa,4,706.3,28,UPI,4.0,3,Thursday,Fast
+1599,237,2024-02-05,Hubli,Domino'S,Biryani,Burger,4,514.04,52,CARD,5.0,2,Monday,Late
+1600,3,2024-02-05,Bangalore,Mcdonald'S,North Indian,Veg Pizza,4,481.16,45,UPI,4.0,2,Monday,Normal
+1601,254,2024-02-05,Mangalore,Pizza Hut,South Indian,Veg Biryani,2,363.72,30,UPI,1.0,2,Monday,Normal
+1602,246,2024-02-05,Bangalore,Mcdonald'S,North Indian,Paneer Curry,1,783.97,44,CARD,2.9847560975609757,2,Monday,Normal
+1603,208,2024-02-05,Mangalore,Pizza Hut,Fast Food,Fries,3,481.03,33,CARD,3.0,2,Monday,Normal
+1604,278,2024-02-05,Bangalore,Meghana Foods,Dessert,Veg Pizza,3,723.82,22,CARD,3.0,2,Monday,Fast
+1605,239,2024-02-05,Hubli,Empire,Biryani,Dosa,1,501.32,64,CARD,2.0,2,Monday,Late
+1606,172,2024-01-31,Bangalore,Mcdonald'S,North Indian,Veg Biryani,2,337.92,32,UPI,2.9847560975609757,1,Wednesday,Normal
+1607,217,2024-02-05,Bangalore,Empire,Dessert,Garlic Bread,4,460.99,68,UPI,4.0,2,Monday,Late
+1608,273,2024-03-27,Mysuru,Mcdonald'S,North Indian,Burger,1,248.08,44,UPI,1.0,3,Wednesday,Normal
+1609,201,2024-02-05,Bangalore,Pizza Hut,Biryani,Chicken Biryani,1,594.02,46,CARD,2.0,2,Monday,Late
+1610,267,2024-02-05,Mysuru,Empire,North Indian,Chicken Pizza,4,355.76,43,UPI,3.0,2,Monday,Normal
+1611,97,2024-02-05,Mysuru,Mcdonald'S,Dessert,Fries,3,565.92,65,CASH,4.0,2,Monday,Late
+1612,272,2024-02-05,Mangalore,Kfc,North Indian,Chicken Pizza,3,236.78,31,CARD,4.0,2,Monday,Normal
+1613,191,2024-02-05,Bangalore,Empire,Dessert,Garlic Bread,2,540.67,25,UPI,3.0,2,Monday,Fast
+1614,94,2024-01-23,Bangalore,Domino'S,Biryani,Cheese Pizza,1,795.77,51,CARD,4.0,1,Tuesday,Late
+1615,134,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Burger,3,220.6,43,UPI,2.0,2,Monday,Normal
+1616,274,2024-02-05,Bangalore,Empire,South Indian,Chicken Pizza,4,750.91,24,UPI,2.9847560975609757,2,Monday,Fast
+1617,280,2024-02-05,Mysuru,Mcdonald'S,Dessert,Paneer Curry,2,663.71,61,CARD,3.0,2,Monday,Late
+1618,58,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Chicken Biryani,1,393.11,68,CARD,4.0,2,Monday,Late
+1619,183,2024-02-05,Bangalore,Meghana Foods,Biryani,Paneer Curry,2,651.27,64,CASH,2.0,2,Monday,Late
+1620,12,2024-01-11,Mangalore,Pizza Hut,North Indian,Fries,2,453.52,53,UPI,5.0,1,Thursday,Late
+1621,29,2024-02-05,Hubli,Domino'S,South Indian,Burger,4,373.53,33,CASH,3.0,2,Monday,Normal
+1622,158,2024-02-27,Bangalore,Domino'S,South Indian,Fries,4,316.27,66,CARD,2.9847560975609757,2,Tuesday,Late
+1623,213,2024-01-18,Bangalore,Domino'S,Biryani,Chicken Biryani,4,792.1,48,CASH,1.0,1,Thursday,Late
+1624,193,2024-02-05,Hubli,Kfc,South Indian,Chicken Pizza,4,602.97,63,CARD,2.0,2,Monday,Late
+1625,96,2024-02-05,Mangalore,Mcdonald'S,Fast Food,Chicken Biryani,3,455.99,62,CARD,2.0,2,Monday,Late
+1626,14,2024-02-05,Mysuru,Kfc,South Indian,Cheese Pizza,3,403.67,46,CARD,1.0,2,Monday,Late
+1627,62,2024-02-05,Bangalore,Meghana Foods,Dessert,Paneer Curry,4,504.59,70,CASH,2.9847560975609757,2,Monday,Late
+1628,244,2024-02-05,Hubli,Mcdonald'S,North Indian,Veg Pizza,3,230.74,18,CARD,3.0,2,Monday,Fast
+1629,237,2024-02-05,Hubli,Domino'S,Fast Food,Chicken Biryani,3,405.27,37,UPI,3.0,2,Monday,Normal
+1630,150,2024-03-08,Bangalore,Mcdonald'S,Biryani,Chicken Pizza,1,527.16,25,UPI,3.0,3,Friday,Fast
+1631,162,2024-02-05,Mysuru,Empire,Fast Food,Dosa,3,679.85,15,CARD,5.0,2,Monday,Fast
+1632,145,2024-02-05,Hubli,Empire,Biryani,Cheese Pizza,2,225.1,29,CARD,5.0,2,Monday,Fast
+1633,270,2024-03-09,Mangalore,Pizza Hut,South Indian,Garlic Bread,1,199.26,23,UPI,4.0,3,Saturday,Fast
+1634,179,2024-02-09,Hubli,Domino'S,South Indian,Paneer Curry,3,237.1,34,UPI,2.9847560975609757,2,Friday,Normal
+1635,61,2024-02-05,Bangalore,Domino'S,Dessert,Chicken Pizza,2,208.55,20,CARD,2.9847560975609757,2,Monday,Fast
+1636,58,2024-02-05,Mangalore,Empire,Fast Food,Veg Biryani,1,142.3,57,UPI,5.0,2,Monday,Late
+1637,31,2024-02-05,Mysuru,Pizza Hut,Fast Food,Chicken Biryani,1,633.09,65,UPI,5.0,2,Monday,Late
+1638,106,2024-02-05,Bangalore,Empire,Fast Food,Cheese Pizza,2,695.19,32,UPI,3.0,2,Monday,Normal
+1639,181,2024-01-21,Mysuru,Mcdonald'S,North Indian,Cheese Pizza,1,677.32,63,UPI,5.0,1,Sunday,Late
+1640,112,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Cheese Pizza,2,745.92,69,CARD,3.0,2,Monday,Late
+1641,95,2024-02-26,Bangalore,Domino'S,Dessert,Fries,4,265.71,29,CARD,1.0,2,Monday,Fast
+1642,161,2024-02-05,Bangalore,Mcdonald'S,Biryani,Garlic Bread,3,599.22,50,UPI,1.0,2,Monday,Late
+1643,168,2024-02-05,Hubli,Kfc,South Indian,Paneer Curry,3,587.19,68,CARD,2.0,2,Monday,Late
+1644,284,2024-02-05,Hubli,Domino'S,Fast Food,Garlic Bread,3,241.92,58,CARD,2.9847560975609757,2,Monday,Late
+1645,54,2024-02-05,Mangalore,Pizza Hut,Fast Food,Chicken Pizza,4,392.42,52,UPI,2.9847560975609757,2,Monday,Late
+1646,87,2024-02-05,Mysuru,Empire,Biryani,Paneer Curry,4,203.48,68,CARD,2.9847560975609757,2,Monday,Late
+1647,256,2024-02-05,Mysuru,Empire,Dessert,Garlic Bread,4,791.52,47,CASH,2.0,2,Monday,Late
+1648,233,2024-02-05,Mysuru,Mcdonald'S,South Indian,Veg Biryani,2,140.21,62,UPI,1.0,2,Monday,Late
+1649,256,2024-02-05,Bangalore,Empire,North Indian,Burger,2,325.87,54,UPI,1.0,2,Monday,Late
+1650,267,2024-02-05,Mysuru,Kfc,South Indian,Garlic Bread,3,488.86,66,UPI,5.0,2,Monday,Late
+1651,10,2024-02-05,Bangalore,Empire,South Indian,Burger,4,420.94,17,UPI,2.0,2,Monday,Fast
+1652,286,2024-02-05,Bangalore,Mcdonald'S,South Indian,Chicken Pizza,3,606.69,46,UPI,5.0,2,Monday,Late
+1653,252,2024-03-25,Mangalore,Meghana Foods,South Indian,Garlic Bread,2,464.55,40,CASH,4.0,3,Monday,Normal
+1654,194,2024-03-19,Hubli,Kfc,Dessert,Veg Pizza,1,521.52,23,CASH,3.0,3,Tuesday,Fast
+1655,299,2024-01-04,Hubli,Empire,Fast Food,Fries,3,794.52,41,CASH,1.0,1,Thursday,Normal
+1656,126,2024-02-05,Mysuru,Meghana Foods,Fast Food,Cheese Pizza,3,197.84,25,UPI,5.0,2,Monday,Fast
+1657,167,2024-02-05,Hubli,Meghana Foods,North Indian,Fries,3,133.87,45,UPI,1.0,2,Monday,Normal
+1658,163,2024-02-18,Hubli,Empire,North Indian,Cheese Pizza,4,188.04,58,CARD,3.0,2,Sunday,Late
+1659,255,2024-03-05,Hubli,Domino'S,North Indian,Chicken Biryani,3,779.21,27,CARD,2.9847560975609757,3,Tuesday,Fast
+1660,39,2024-02-05,Mysuru,Kfc,Fast Food,Chicken Biryani,4,667.13,54,UPI,2.9847560975609757,2,Monday,Late
+1661,297,2024-01-13,Hubli,Kfc,Fast Food,Paneer Curry,4,410.43,37,UPI,2.9847560975609757,1,Saturday,Normal
+1662,155,2024-02-05,Hubli,Mcdonald'S,Dessert,Veg Biryani,4,393.56,54,UPI,4.0,2,Monday,Late
+1663,281,2024-02-05,Mangalore,Domino'S,North Indian,Garlic Bread,2,569.35,67,CARD,3.0,2,Monday,Late
+1664,273,2024-02-05,Bangalore,Mcdonald'S,Biryani,Burger,4,220.47,24,CASH,4.0,2,Monday,Fast
+1665,211,2024-02-05,Mysuru,Empire,Dessert,Chicken Biryani,2,294.38,53,CARD,4.0,2,Monday,Late
+1666,123,2024-02-05,Mysuru,Pizza Hut,Biryani,Chicken Biryani,4,450.06,42,CARD,2.9847560975609757,2,Monday,Normal
+1667,19,2024-02-05,Mysuru,Domino'S,Fast Food,Chicken Biryani,3,567.9,26,UPI,2.9847560975609757,2,Monday,Fast
+1668,249,2024-02-05,Bangalore,Empire,North Indian,Chicken Biryani,1,732.39,41,CASH,2.9847560975609757,2,Monday,Normal
+1669,47,2024-02-20,Bangalore,Domino'S,Fast Food,Paneer Curry,1,474.93,68,UPI,5.0,2,Tuesday,Late
+1670,129,2024-02-05,Mysuru,Meghana Foods,Fast Food,Burger,3,685.99,62,CARD,2.9847560975609757,2,Monday,Late
+1671,121,2024-02-05,Bangalore,Pizza Hut,Biryani,Veg Biryani,3,418.84,31,UPI,1.0,2,Monday,Normal
+1672,252,2024-02-05,Bangalore,Empire,North Indian,Fries,4,584.26,32,CARD,3.0,2,Monday,Normal
+1673,244,2024-02-05,Bangalore,Meghana Foods,Fast Food,Veg Pizza,2,292.03,39,CASH,2.9847560975609757,2,Monday,Normal
+1674,186,2024-02-05,Mangalore,Domino'S,South Indian,Fries,1,738.66,40,CASH,3.0,2,Monday,Normal
+1675,47,2024-02-05,Mysuru,Domino'S,South Indian,Burger,4,656.74,32,UPI,4.0,2,Monday,Normal
+1676,242,2024-02-05,Hubli,Pizza Hut,Biryani,Chicken Biryani,1,359.26,53,UPI,2.9847560975609757,2,Monday,Late
+1677,168,2024-02-28,Bangalore,Pizza Hut,Biryani,Garlic Bread,2,122.09,27,CASH,3.0,2,Wednesday,Fast
+1678,295,2024-02-05,Bangalore,Domino'S,North Indian,Chicken Pizza,4,659.0,35,CARD,4.0,2,Monday,Normal
+1679,69,2024-02-05,Hubli,Kfc,Biryani,Cheese Pizza,4,369.97,40,CARD,5.0,2,Monday,Normal
+1680,115,2024-02-05,Mangalore,Meghana Foods,Biryani,Cheese Pizza,4,254.82,59,CARD,1.0,2,Monday,Late
+1681,206,2024-02-05,Mysuru,Domino'S,Fast Food,Burger,2,764.13,22,UPI,2.9847560975609757,2,Monday,Fast
+1682,270,2024-02-05,Mangalore,Pizza Hut,Biryani,Veg Biryani,2,763.32,67,CASH,3.0,2,Monday,Late
+1683,254,2024-02-05,Hubli,Domino'S,North Indian,Veg Biryani,3,614.16,27,CARD,2.0,2,Monday,Fast
+1684,210,2024-02-05,Mysuru,Kfc,Biryani,Paneer Curry,4,736.98,38,UPI,2.9847560975609757,2,Monday,Normal
+1685,235,2024-02-05,Mangalore,Domino'S,Dessert,Fries,2,605.07,60,CARD,2.9847560975609757,2,Monday,Late
+1686,132,2024-02-05,Mangalore,Pizza Hut,Fast Food,Burger,2,440.23,37,UPI,2.9847560975609757,2,Monday,Normal
+1687,24,2024-02-05,Mangalore,Meghana Foods,South Indian,Chicken Biryani,4,576.46,23,UPI,1.0,2,Monday,Fast
+1688,298,2024-02-05,Bangalore,Mcdonald'S,South Indian,Burger,4,209.71,35,UPI,4.0,2,Monday,Normal
+1689,73,2024-02-05,Hubli,Pizza Hut,Biryani,Garlic Bread,3,628.52,42,CASH,3.0,2,Monday,Normal
+1690,136,2024-02-05,Hubli,Domino'S,Dessert,Garlic Bread,2,497.86,57,CARD,1.0,2,Monday,Late
+1691,97,2024-02-05,Mysuru,Domino'S,Fast Food,Garlic Bread,3,231.22,44,CARD,1.0,2,Monday,Normal
+1692,254,2024-02-05,Hubli,Mcdonald'S,South Indian,Garlic Bread,4,196.49,61,CARD,1.0,2,Monday,Late
+1693,179,2024-02-05,Mysuru,Domino'S,Biryani,Dosa,3,503.01,57,UPI,2.0,2,Monday,Late
+1694,299,2024-01-01,Bangalore,Empire,Fast Food,Veg Biryani,4,580.3,36,UPI,3.0,1,Monday,Normal
+1695,63,2024-02-05,Bangalore,Empire,Biryani,Veg Pizza,1,432.96,60,CARD,4.0,2,Monday,Late
+1696,138,2024-03-17,Bangalore,Empire,Fast Food,Paneer Curry,4,340.94,61,UPI,2.0,3,Sunday,Late
+1697,109,2024-01-07,Mysuru,Empire,Fast Food,Cheese Pizza,4,182.93,31,CARD,2.0,1,Sunday,Normal
+1698,205,2024-02-05,Mysuru,Domino'S,South Indian,Fries,3,560.07,56,CARD,1.0,2,Monday,Late
+1699,153,2024-02-05,Mysuru,Meghana Foods,Biryani,Burger,1,685.8,47,CARD,4.0,2,Monday,Late
+1700,229,2024-02-05,Mysuru,Meghana Foods,North Indian,Fries,1,634.41,66,CASH,5.0,2,Monday,Late
+1701,96,2024-02-25,Hubli,Pizza Hut,Fast Food,Dosa,3,781.82,58,CARD,2.9847560975609757,2,Sunday,Late
+1702,80,2024-03-04,Mangalore,Pizza Hut,Dessert,Garlic Bread,4,173.84,66,CARD,3.0,3,Monday,Late
+1703,77,2024-01-17,Mysuru,Domino'S,North Indian,Fries,3,506.6,50,UPI,1.0,1,Wednesday,Late
+1704,263,2024-01-14,Hubli,Empire,Fast Food,Garlic Bread,3,361.71,52,UPI,5.0,1,Sunday,Late
+1705,9,2024-01-15,Mangalore,Domino'S,Biryani,Fries,1,176.64,60,CASH,3.0,1,Monday,Late
+1706,233,2024-02-05,Mysuru,Empire,Biryani,Veg Biryani,2,173.19,53,CASH,2.9847560975609757,2,Monday,Late
+1707,55,2024-02-25,Bangalore,Pizza Hut,South Indian,Cheese Pizza,1,236.78,45,CARD,2.9847560975609757,2,Sunday,Normal
+1708,208,2024-03-25,Mangalore,Kfc,North Indian,Paneer Curry,3,589.65,59,CARD,3.0,3,Monday,Late
+1709,45,2024-02-05,Bangalore,Domino'S,Fast Food,Veg Pizza,2,704.13,28,CARD,2.9847560975609757,2,Monday,Fast
+1710,75,2024-02-05,Hubli,Mcdonald'S,Biryani,Cheese Pizza,3,643.41,24,CARD,4.0,2,Monday,Fast
+1711,12,2024-02-05,Bangalore,Mcdonald'S,South Indian,Garlic Bread,1,704.66,52,CARD,2.0,2,Monday,Late
+1712,151,2024-02-05,Bangalore,Empire,Fast Food,Cheese Pizza,4,786.05,69,CARD,2.9847560975609757,2,Monday,Late
+1713,297,2024-03-17,Mangalore,Kfc,Fast Food,Garlic Bread,4,450.55,52,UPI,2.9847560975609757,3,Sunday,Late
+1714,250,2024-01-30,Bangalore,Mcdonald'S,Fast Food,Fries,3,496.21,32,CARD,4.0,1,Tuesday,Normal
+1715,60,2024-03-04,Hubli,Mcdonald'S,South Indian,Veg Pizza,2,315.85,27,CARD,3.0,3,Monday,Fast
+1716,225,2024-01-30,Mysuru,Meghana Foods,Dessert,Paneer Curry,4,209.19,33,CARD,4.0,1,Tuesday,Normal
+1717,185,2024-02-05,Mysuru,Kfc,Fast Food,Garlic Bread,2,237.84,25,UPI,4.0,2,Monday,Fast
+1718,52,2024-02-05,Mysuru,Domino'S,Biryani,Dosa,1,799.5,37,CASH,3.0,2,Monday,Normal
+1719,82,2024-01-23,Bangalore,Pizza Hut,Dessert,Fries,1,539.94,22,UPI,2.0,1,Tuesday,Fast
+1720,250,2024-02-05,Hubli,Pizza Hut,North Indian,Chicken Biryani,2,700.32,70,UPI,5.0,2,Monday,Late
+1721,54,2024-02-05,Mangalore,Mcdonald'S,Fast Food,Cheese Pizza,1,680.05,17,UPI,1.0,2,Monday,Fast
+1722,86,2024-02-05,Mysuru,Empire,Biryani,Chicken Biryani,4,638.14,46,UPI,2.0,2,Monday,Late
+1723,187,2024-02-05,Bangalore,Domino'S,South Indian,Fries,1,286.81,66,CARD,3.0,2,Monday,Late
+1724,147,2024-02-05,Bangalore,Kfc,Dessert,Fries,3,548.02,30,CARD,5.0,2,Monday,Normal
+1725,216,2024-02-05,Hubli,Empire,South Indian,Garlic Bread,3,761.74,43,CARD,1.0,2,Monday,Normal
+1726,265,2024-02-05,Hubli,Empire,South Indian,Chicken Pizza,4,161.8,63,UPI,2.9847560975609757,2,Monday,Late
+1727,78,2024-02-05,Mangalore,Kfc,South Indian,Fries,3,610.65,35,CASH,1.0,2,Monday,Normal
+1728,144,2024-03-08,Bangalore,Empire,South Indian,Veg Biryani,4,594.28,66,CARD,2.0,3,Friday,Late
+1729,155,2024-02-05,Mangalore,Empire,South Indian,Chicken Pizza,3,265.34,47,UPI,3.0,2,Monday,Late
+1730,267,2024-02-13,Bangalore,Pizza Hut,Fast Food,Dosa,3,284.11,64,CASH,2.9847560975609757,2,Tuesday,Late
+1731,217,2024-02-05,Bangalore,Empire,Dessert,Dosa,3,204.19,63,UPI,4.0,2,Monday,Late
+1732,153,2024-03-14,Bangalore,Mcdonald'S,Dessert,Veg Biryani,2,358.23,33,UPI,2.9847560975609757,3,Thursday,Normal
+1733,72,2024-02-18,Mysuru,Pizza Hut,Dessert,Dosa,2,679.53,38,CARD,1.0,2,Sunday,Normal
+1734,76,2024-02-05,Bangalore,Pizza Hut,Fast Food,Fries,2,443.85,43,UPI,3.0,2,Monday,Normal
+1735,270,2024-02-21,Mangalore,Mcdonald'S,South Indian,Chicken Biryani,4,552.79,43,CARD,2.9847560975609757,2,Wednesday,Normal
+1736,214,2024-02-05,Mangalore,Domino'S,South Indian,Garlic Bread,2,778.26,47,UPI,1.0,2,Monday,Late
+1737,109,2024-02-05,Bangalore,Domino'S,North Indian,Burger,1,529.09,41,UPI,1.0,2,Monday,Normal
+1738,190,2024-02-05,Bangalore,Mcdonald'S,Biryani,Cheese Pizza,3,327.35,38,CASH,3.0,2,Monday,Normal
+1739,249,2024-02-05,Bangalore,Meghana Foods,South Indian,Veg Pizza,3,724.56,28,CARD,2.9847560975609757,2,Monday,Fast
+1740,251,2024-02-05,Mangalore,Empire,Fast Food,Veg Pizza,4,447.2,34,UPI,4.0,2,Monday,Normal
+1741,173,2024-02-05,Bangalore,Domino'S,North Indian,Garlic Bread,4,573.71,24,CASH,1.0,2,Monday,Fast
+1742,210,2024-02-05,Hubli,Empire,North Indian,Veg Pizza,4,620.42,56,UPI,2.0,2,Monday,Late
+1743,13,2024-03-14,Mysuru,Mcdonald'S,Fast Food,Dosa,1,250.85,54,UPI,5.0,3,Thursday,Late
+1744,28,2024-03-13,Mysuru,Mcdonald'S,North Indian,Veg Pizza,1,567.61,49,CARD,1.0,3,Wednesday,Late
+1745,141,2024-02-05,Mangalore,Pizza Hut,North Indian,Paneer Curry,3,393.22,17,CARD,1.0,2,Monday,Fast
+1746,175,2024-02-05,Hubli,Pizza Hut,North Indian,Burger,4,294.88,22,UPI,5.0,2,Monday,Fast
+1747,87,2024-02-05,Bangalore,Kfc,Fast Food,Chicken Pizza,3,767.47,58,CARD,1.0,2,Monday,Late
+1748,167,2024-02-05,Bangalore,Kfc,South Indian,Cheese Pizza,3,216.87,35,CASH,4.0,2,Monday,Normal
+1749,62,2024-02-05,Mysuru,Meghana Foods,North Indian,Veg Biryani,4,465.86,47,CARD,1.0,2,Monday,Late
+1750,138,2024-02-05,Mangalore,Mcdonald'S,South Indian,Cheese Pizza,4,139.66,55,CARD,1.0,2,Monday,Late
+1751,138,2024-03-11,Bangalore,Domino'S,North Indian,Chicken Pizza,3,506.41,43,UPI,2.9847560975609757,3,Monday,Normal
+1752,257,2024-02-05,Hubli,Mcdonald'S,Biryani,Veg Biryani,4,773.72,50,CARD,1.0,2,Monday,Late
+1753,1,2024-02-29,Mysuru,Domino'S,Fast Food,Veg Pizza,4,305.85,31,CARD,3.0,2,Thursday,Normal
+1754,109,2024-03-15,Mysuru,Pizza Hut,Biryani,Dosa,1,324.43,40,UPI,2.0,3,Friday,Normal
+1755,285,2024-02-05,Mysuru,Meghana Foods,North Indian,Burger,3,551.92,63,CARD,3.0,2,Monday,Late
+1756,126,2024-02-05,Hubli,Domino'S,South Indian,Paneer Curry,3,130.79,59,CARD,2.9847560975609757,2,Monday,Late
+1757,2,2024-02-05,Bangalore,Pizza Hut,Biryani,Fries,4,638.48,49,UPI,2.9847560975609757,2,Monday,Late
+1758,40,2024-02-05,Mangalore,Pizza Hut,Dessert,Fries,3,382.99,68,UPI,1.0,2,Monday,Late
+1759,237,2024-02-05,Mangalore,Pizza Hut,Biryani,Veg Pizza,3,582.78,60,CASH,2.0,2,Monday,Late
+1760,47,2024-03-19,Mysuru,Domino'S,Biryani,Garlic Bread,3,145.02,46,UPI,2.0,3,Tuesday,Late
+1761,4,2024-01-26,Hubli,Pizza Hut,Dessert,Paneer Curry,4,235.92,27,UPI,2.9847560975609757,1,Friday,Fast
+1762,290,2024-02-05,Bangalore,Pizza Hut,Biryani,Chicken Biryani,2,719.08,61,CASH,2.0,2,Monday,Late
+1763,12,2024-03-29,Mangalore,Meghana Foods,Dessert,Dosa,4,121.33,42,UPI,3.0,3,Friday,Normal
+1764,222,2024-02-05,Bangalore,Mcdonald'S,South Indian,Garlic Bread,3,471.73,17,CARD,1.0,2,Monday,Fast
+1765,143,2024-02-23,Mangalore,Empire,Fast Food,Fries,2,347.6,51,UPI,2.9847560975609757,2,Friday,Late
+1766,116,2024-02-05,Bangalore,Domino'S,Biryani,Chicken Pizza,3,331.35,55,UPI,1.0,2,Monday,Late
+1767,246,2024-02-05,Hubli,Kfc,Biryani,Cheese Pizza,4,282.08,36,UPI,3.0,2,Monday,Normal
+1768,267,2024-02-05,Mangalore,Pizza Hut,South Indian,Paneer Curry,1,178.16,18,UPI,4.0,2,Monday,Fast
+1769,161,2024-02-05,Bangalore,Pizza Hut,South Indian,Veg Pizza,3,535.3,42,UPI,1.0,2,Monday,Normal
+1770,29,2024-02-05,Mysuru,Empire,South Indian,Cheese Pizza,4,278.52,53,UPI,1.0,2,Monday,Late
+1771,233,2024-02-05,Hubli,Meghana Foods,North Indian,Cheese Pizza,3,562.63,58,UPI,4.0,2,Monday,Late
+1772,265,2024-02-12,Mysuru,Pizza Hut,Fast Food,Veg Pizza,1,523.16,68,CARD,5.0,2,Monday,Late
+1773,65,2024-03-22,Mysuru,Empire,South Indian,Garlic Bread,4,246.43,23,UPI,1.0,3,Friday,Fast
+1774,66,2024-02-09,Hubli,Mcdonald'S,Dessert,Chicken Biryani,2,220.24,34,UPI,3.0,2,Friday,Normal
+1775,150,2024-02-05,Mangalore,Meghana Foods,Biryani,Veg Pizza,2,464.83,68,UPI,1.0,2,Monday,Late
+1776,217,2024-02-05,Mysuru,Domino'S,Fast Food,Burger,2,574.14,59,CARD,5.0,2,Monday,Late
+1777,170,2024-03-15,Hubli,Meghana Foods,Dessert,Fries,3,230.35,44,UPI,4.0,3,Friday,Normal
+1778,113,2024-01-01,Mysuru,Domino'S,South Indian,Paneer Curry,2,282.53,62,CASH,2.9847560975609757,1,Monday,Late
+1779,193,2024-02-05,Bangalore,Pizza Hut,Dessert,Veg Pizza,1,363.36,50,UPI,2.0,2,Monday,Late
+1780,149,2024-02-05,Hubli,Pizza Hut,Fast Food,Veg Biryani,2,313.19,29,CASH,2.9847560975609757,2,Monday,Fast
+1781,90,2024-02-13,Mysuru,Domino'S,Biryani,Veg Pizza,2,693.16,21,UPI,2.9847560975609757,2,Tuesday,Fast
+1782,71,2024-02-18,Bangalore,Empire,Biryani,Chicken Biryani,4,283.3,66,CASH,2.9847560975609757,2,Sunday,Late
+1783,88,2024-03-08,Hubli,Pizza Hut,Fast Food,Chicken Pizza,2,660.53,27,UPI,4.0,3,Friday,Fast
+1784,192,2024-02-10,Hubli,Domino'S,Fast Food,Paneer Curry,2,701.02,33,CARD,3.0,2,Saturday,Normal
+1785,127,2024-01-07,Mysuru,Domino'S,North Indian,Paneer Curry,4,262.28,20,CARD,2.9847560975609757,1,Sunday,Fast
+1786,34,2024-01-22,Hubli,Mcdonald'S,Dessert,Garlic Bread,4,241.72,60,CASH,5.0,1,Monday,Late
+1787,248,2024-02-05,Mysuru,Meghana Foods,South Indian,Paneer Curry,1,260.9,27,CARD,2.0,2,Monday,Fast
+1788,203,2024-02-05,Hubli,Empire,North Indian,Chicken Pizza,3,293.08,20,CARD,1.0,2,Monday,Fast
+1789,152,2024-02-26,Hubli,Domino'S,North Indian,Veg Pizza,4,468.34,36,CARD,4.0,2,Monday,Normal
+1790,240,2024-02-05,Hubli,Mcdonald'S,Dessert,Chicken Biryani,4,136.81,43,CARD,3.0,2,Monday,Normal
+1791,39,2024-02-05,Mysuru,Mcdonald'S,North Indian,Dosa,1,654.39,29,UPI,1.0,2,Monday,Fast
+1792,37,2024-02-05,Mangalore,Domino'S,Dessert,Veg Biryani,3,290.02,62,CASH,2.0,2,Monday,Late
+1793,71,2024-02-05,Bangalore,Kfc,Dessert,Burger,4,763.15,67,UPI,2.9847560975609757,2,Monday,Late
+1794,7,2024-03-01,Mangalore,Domino'S,South Indian,Veg Biryani,2,611.87,28,CARD,2.0,3,Friday,Fast
+1795,265,2024-03-16,Mangalore,Mcdonald'S,Dessert,Cheese Pizza,3,695.15,42,CARD,2.0,3,Saturday,Normal
+1796,225,2024-02-27,Bangalore,Empire,Biryani,Paneer Curry,2,327.79,62,UPI,4.0,2,Tuesday,Late
+1797,182,2024-02-05,Hubli,Empire,South Indian,Dosa,3,341.73,16,UPI,1.0,2,Monday,Fast
+1798,72,2024-02-05,Hubli,Empire,Biryani,Fries,1,483.45,27,CARD,1.0,2,Monday,Fast
+1799,169,2024-02-05,Mysuru,Pizza Hut,Biryani,Cheese Pizza,2,141.8,59,UPI,4.0,2,Monday,Late
+1800,14,2024-02-05,Bangalore,Empire,Dessert,Veg Biryani,2,317.95,48,UPI,4.0,2,Monday,Late
+1801,30,2024-02-17,Bangalore,Domino'S,Dessert,Fries,4,226.78,22,CARD,5.0,2,Saturday,Fast
+1802,215,2024-03-02,Bangalore,Empire,Biryani,Chicken Pizza,2,330.63,67,CARD,2.0,3,Saturday,Late
+1803,295,2024-02-09,Mysuru,Mcdonald'S,South Indian,Chicken Biryani,2,125.06,24,CARD,1.0,2,Friday,Fast
+1804,205,2024-02-05,Mangalore,Empire,North Indian,Garlic Bread,4,434.63,17,UPI,3.0,2,Monday,Fast
+1805,234,2024-02-14,Mysuru,Empire,North Indian,Chicken Pizza,4,289.41,54,CARD,4.0,2,Wednesday,Late
+1806,197,2024-02-05,Bangalore,Empire,Fast Food,Veg Biryani,2,306.17,55,UPI,3.0,2,Monday,Late
+1807,35,2024-03-30,Mysuru,Mcdonald'S,South Indian,Dosa,1,796.82,19,UPI,5.0,3,Saturday,Fast
+1808,167,2024-02-05,Bangalore,Kfc,Biryani,Dosa,1,434.27,19,CARD,4.0,2,Monday,Fast
+1809,176,2024-02-05,Hubli,Pizza Hut,Fast Food,Chicken Biryani,1,602.19,23,CASH,2.9847560975609757,2,Monday,Fast
+1810,238,2024-02-05,Bangalore,Pizza Hut,North Indian,Veg Biryani,4,215.37,67,CASH,2.0,2,Monday,Late
+1811,88,2024-01-03,Bangalore,Domino'S,Dessert,Cheese Pizza,4,234.55,57,UPI,2.9847560975609757,1,Wednesday,Late
+1812,140,2024-02-05,Hubli,Domino'S,Biryani,Veg Pizza,2,420.6,18,UPI,2.9847560975609757,2,Monday,Fast
+1813,53,2024-02-19,Mysuru,Mcdonald'S,Fast Food,Paneer Curry,1,153.09,39,CARD,2.0,2,Monday,Normal
+1814,192,2024-02-05,Bangalore,Pizza Hut,South Indian,Veg Pizza,1,349.24,27,UPI,2.0,2,Monday,Fast
+1815,50,2024-02-05,Bangalore,Pizza Hut,South Indian,Dosa,1,674.62,35,UPI,2.9847560975609757,2,Monday,Normal
+1816,98,2024-02-05,Mangalore,Empire,South Indian,Cheese Pizza,2,265.37,37,CASH,2.0,2,Monday,Normal
+1817,8,2024-02-21,Hubli,Pizza Hut,South Indian,Veg Biryani,4,269.67,57,CASH,2.9847560975609757,2,Wednesday,Late
+1818,189,2024-02-05,Mysuru,Empire,Dessert,Paneer Curry,4,788.51,21,UPI,5.0,2,Monday,Fast
+1819,88,2024-02-05,Hubli,Empire,Biryani,Burger,2,552.04,59,CASH,2.9847560975609757,2,Monday,Late
+1820,247,2024-02-05,Bangalore,Meghana Foods,North Indian,Garlic Bread,4,467.5,62,CARD,5.0,2,Monday,Late
+1821,7,2024-02-05,Bangalore,Kfc,Biryani,Fries,2,541.44,18,CARD,3.0,2,Monday,Fast
+1822,256,2024-02-05,Bangalore,Empire,Biryani,Veg Pizza,2,747.92,53,CARD,2.9847560975609757,2,Monday,Late
+1823,169,2024-02-05,Hubli,Pizza Hut,North Indian,Fries,3,630.37,29,CASH,3.0,2,Monday,Fast
+1824,125,2024-01-27,Bangalore,Domino'S,Biryani,Paneer Curry,4,474.6,26,CARD,2.9847560975609757,1,Saturday,Fast
+1825,4,2024-02-05,Bangalore,Domino'S,Fast Food,Chicken Pizza,2,205.38,26,UPI,5.0,2,Monday,Fast
+1826,105,2024-01-31,Bangalore,Empire,South Indian,Chicken Biryani,2,610.74,30,CARD,2.0,1,Wednesday,Normal
+1827,128,2024-02-05,Mangalore,Domino'S,Dessert,Garlic Bread,1,766.69,38,CARD,4.0,2,Monday,Normal
+1828,86,2024-02-05,Hubli,Mcdonald'S,North Indian,Fries,2,677.33,65,CARD,1.0,2,Monday,Late
+1829,196,2024-02-05,Mysuru,Meghana Foods,North Indian,Chicken Pizza,2,294.96,44,CASH,4.0,2,Monday,Normal
+1830,146,2024-02-18,Mangalore,Pizza Hut,Dessert,Chicken Pizza,4,253.09,27,UPI,1.0,2,Sunday,Fast
+1831,257,2024-02-05,Hubli,Empire,South Indian,Burger,4,452.89,56,UPI,1.0,2,Monday,Late
+1832,210,2024-02-05,Hubli,Meghana Foods,Biryani,Veg Biryani,4,770.83,64,CASH,5.0,2,Monday,Late
+1833,251,2024-03-22,Hubli,Pizza Hut,South Indian,Fries,2,284.8,17,CASH,2.9847560975609757,3,Friday,Fast
+1834,15,2024-03-30,Bangalore,Kfc,North Indian,Garlic Bread,2,292.92,53,UPI,2.9847560975609757,3,Saturday,Late
+1835,83,2024-02-05,Bangalore,Empire,South Indian,Paneer Curry,1,472.61,27,CARD,2.0,2,Monday,Fast
+1836,219,2024-02-02,Mysuru,Mcdonald'S,North Indian,Fries,3,619.07,63,UPI,1.0,2,Friday,Late
+1837,294,2024-02-05,Mysuru,Domino'S,South Indian,Chicken Biryani,1,791.18,67,CARD,1.0,2,Monday,Late
+1838,50,2024-01-09,Hubli,Mcdonald'S,South Indian,Chicken Biryani,4,236.03,38,CARD,2.9847560975609757,1,Tuesday,Normal
+1839,69,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Garlic Bread,2,246.23,18,CARD,2.0,2,Monday,Fast
+1840,133,2024-02-05,Bangalore,Domino'S,Fast Food,Chicken Biryani,1,376.86,32,UPI,3.0,2,Monday,Normal
+1841,16,2024-02-05,Mangalore,Mcdonald'S,Fast Food,Veg Pizza,1,300.93,15,UPI,1.0,2,Monday,Fast
+1842,50,2024-01-28,Bangalore,Empire,North Indian,Dosa,3,753.85,45,CASH,5.0,1,Sunday,Normal
+1843,220,2024-02-05,Hubli,Empire,Biryani,Burger,4,377.34,18,CASH,3.0,2,Monday,Fast
+1844,52,2024-02-05,Hubli,Domino'S,Fast Food,Paneer Curry,1,710.92,32,CARD,3.0,2,Monday,Normal
+1845,232,2024-03-20,Mangalore,Mcdonald'S,South Indian,Veg Biryani,1,790.6,67,CASH,1.0,3,Wednesday,Late
+1846,185,2024-01-06,Hubli,Mcdonald'S,Biryani,Paneer Curry,4,392.11,54,UPI,3.0,1,Saturday,Late
+1847,220,2024-03-01,Bangalore,Empire,Dessert,Paneer Curry,2,604.12,70,UPI,5.0,3,Friday,Late
+1848,259,2024-02-05,Mangalore,Pizza Hut,Dessert,Dosa,4,234.28,43,UPI,4.0,2,Monday,Normal
+1849,277,2024-02-05,Mysuru,Domino'S,Fast Food,Cheese Pizza,4,795.49,16,CARD,3.0,2,Monday,Fast
+1850,197,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Chicken Pizza,4,181.5,59,CASH,2.0,2,Monday,Late
+1851,295,2024-02-05,Hubli,Empire,South Indian,Dosa,4,669.74,29,CASH,1.0,2,Monday,Fast
+1852,149,2024-02-05,Bangalore,Empire,North Indian,Veg Biryani,1,509.53,23,CASH,4.0,2,Monday,Fast
+1853,296,2024-02-05,Bangalore,Meghana Foods,North Indian,Veg Biryani,4,786.3,35,CASH,2.9847560975609757,2,Monday,Normal
+1854,65,2024-03-07,Mysuru,Pizza Hut,South Indian,Veg Pizza,4,334.83,67,CASH,2.0,3,Thursday,Late
+1855,256,2024-02-05,Bangalore,Meghana Foods,Dessert,Chicken Pizza,1,527.24,34,UPI,2.9847560975609757,2,Monday,Normal
+1856,64,2024-02-05,Mangalore,Domino'S,South Indian,Chicken Biryani,4,159.99,66,CASH,2.0,2,Monday,Late
+1857,108,2024-01-29,Bangalore,Domino'S,South Indian,Fries,3,789.38,57,CARD,1.0,1,Monday,Late
+1858,281,2024-02-05,Hubli,Mcdonald'S,Dessert,Fries,4,168.84,61,CASH,3.0,2,Monday,Late
+1859,100,2024-03-30,Hubli,Pizza Hut,Biryani,Burger,1,697.87,60,CASH,4.0,3,Saturday,Late
+1860,84,2024-02-05,Mangalore,Mcdonald'S,Dessert,Chicken Pizza,2,268.33,62,CARD,2.9847560975609757,2,Monday,Late
+1861,5,2024-02-16,Bangalore,Domino'S,South Indian,Fries,2,749.67,21,CASH,4.0,2,Friday,Fast
+1862,92,2024-02-05,Mangalore,Empire,North Indian,Fries,2,546.34,40,CARD,1.0,2,Monday,Normal
+1863,61,2024-02-05,Mangalore,Kfc,North Indian,Chicken Pizza,4,647.58,65,UPI,4.0,2,Monday,Late
+1864,196,2024-02-05,Mangalore,Empire,Fast Food,Cheese Pizza,1,176.19,46,UPI,2.0,2,Monday,Late
+1865,12,2024-03-16,Mangalore,Kfc,Fast Food,Paneer Curry,2,381.09,56,CARD,3.0,3,Saturday,Late
+1866,293,2024-02-05,Hubli,Pizza Hut,North Indian,Chicken Pizza,4,672.75,16,CARD,5.0,2,Monday,Fast
+1867,275,2024-02-05,Bangalore,Mcdonald'S,North Indian,Dosa,1,632.39,28,UPI,2.0,2,Monday,Fast
+1868,93,2024-01-01,Mangalore,Empire,Fast Food,Veg Pizza,2,511.06,56,CARD,1.0,1,Monday,Late
+1869,288,2024-02-05,Bangalore,Pizza Hut,North Indian,Chicken Biryani,3,777.07,25,CARD,2.9847560975609757,2,Monday,Fast
+1870,1,2024-02-05,Bangalore,Mcdonald'S,Dessert,Dosa,4,215.1,46,CASH,5.0,2,Monday,Late
+1871,181,2024-03-18,Mangalore,Domino'S,Fast Food,Veg Pizza,2,144.98,24,CASH,2.0,3,Monday,Fast
+1872,69,2024-03-18,Mysuru,Meghana Foods,Dessert,Chicken Biryani,2,615.79,42,UPI,5.0,3,Monday,Normal
+1873,131,2024-02-05,Bangalore,Empire,South Indian,Cheese Pizza,3,580.04,59,CARD,5.0,2,Monday,Late
+1874,105,2024-01-10,Mysuru,Domino'S,Dessert,Paneer Curry,2,405.39,24,CASH,4.0,1,Wednesday,Fast
+1875,195,2024-01-04,Mysuru,Pizza Hut,Dessert,Cheese Pizza,1,585.11,41,UPI,3.0,1,Thursday,Normal
+1876,46,2024-02-05,Mysuru,Domino'S,Biryani,Chicken Biryani,1,186.6,29,CARD,1.0,2,Monday,Fast
+1877,64,2024-01-23,Mysuru,Meghana Foods,South Indian,Cheese Pizza,3,596.31,70,CASH,5.0,1,Tuesday,Late
+1878,139,2024-02-05,Bangalore,Domino'S,Dessert,Fries,2,354.72,62,UPI,5.0,2,Monday,Late
+1879,207,2024-03-02,Bangalore,Kfc,Fast Food,Dosa,2,567.14,24,CARD,5.0,3,Saturday,Fast
+1880,137,2024-01-07,Hubli,Domino'S,North Indian,Fries,4,244.51,37,CARD,5.0,1,Sunday,Normal
+1881,147,2024-02-05,Mangalore,Domino'S,Dessert,Cheese Pizza,3,396.43,35,UPI,2.9847560975609757,2,Monday,Normal
+1882,41,2024-01-10,Mysuru,Pizza Hut,Biryani,Paneer Curry,1,177.52,33,UPI,4.0,1,Wednesday,Normal
+1883,6,2024-02-24,Mangalore,Domino'S,South Indian,Garlic Bread,1,395.72,54,CARD,2.9847560975609757,2,Saturday,Late
+1884,4,2024-02-24,Mangalore,Empire,Biryani,Dosa,1,533.01,25,UPI,2.0,2,Saturday,Fast
+1885,90,2024-02-05,Bangalore,Mcdonald'S,Dessert,Veg Pizza,4,456.95,25,CASH,1.0,2,Monday,Fast
+1886,174,2024-02-05,Mangalore,Pizza Hut,Dessert,Chicken Biryani,4,319.61,28,UPI,2.9847560975609757,2,Monday,Fast
+1887,292,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Garlic Bread,4,159.1,15,UPI,4.0,2,Monday,Fast
+1888,169,2024-02-05,Bangalore,Pizza Hut,Dessert,Chicken Pizza,4,361.08,21,CARD,4.0,2,Monday,Fast
+1889,102,2024-01-11,Mangalore,Domino'S,South Indian,Cheese Pizza,4,124.7,64,CASH,2.0,1,Thursday,Late
+1890,241,2024-02-05,Mysuru,Empire,South Indian,Chicken Pizza,3,193.91,43,CARD,2.0,2,Monday,Normal
+1891,72,2024-02-15,Hubli,Pizza Hut,Dessert,Veg Biryani,1,248.91,17,CARD,4.0,2,Thursday,Fast
+1892,216,2024-02-05,Bangalore,Domino'S,South Indian,Chicken Biryani,1,406.34,50,CARD,2.9847560975609757,2,Monday,Late
+1893,66,2024-02-05,Mangalore,Empire,Biryani,Cheese Pizza,1,659.04,23,CARD,3.0,2,Monday,Fast
+1894,257,2024-01-02,Mysuru,Pizza Hut,Dessert,Fries,1,415.34,33,CASH,4.0,1,Tuesday,Normal
+1895,43,2024-02-05,Bangalore,Mcdonald'S,Biryani,Veg Biryani,3,641.37,70,CASH,2.9847560975609757,2,Monday,Late
+1896,127,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Dosa,2,248.29,69,UPI,2.9847560975609757,2,Monday,Late
+1897,77,2024-02-05,Bangalore,Empire,Fast Food,Chicken Biryani,2,751.79,42,UPI,5.0,2,Monday,Normal
+1898,103,2024-02-05,Hubli,Empire,North Indian,Chicken Biryani,2,270.81,42,CARD,1.0,2,Monday,Normal
+1899,262,2024-02-24,Bangalore,Kfc,Fast Food,Chicken Biryani,3,310.78,37,CARD,2.0,2,Saturday,Normal
+1900,164,2024-02-05,Bangalore,Pizza Hut,Fast Food,Burger,2,314.02,32,UPI,1.0,2,Monday,Normal
+1901,221,2024-02-05,Mangalore,Empire,Dessert,Chicken Biryani,1,185.88,15,UPI,2.0,2,Monday,Fast
+1902,170,2024-02-16,Hubli,Meghana Foods,North Indian,Paneer Curry,3,282.01,32,CARD,5.0,2,Friday,Normal
+1903,197,2024-02-05,Bangalore,Meghana Foods,Fast Food,Veg Pizza,2,251.19,43,UPI,1.0,2,Monday,Normal
+1904,280,2024-02-05,Mysuru,Mcdonald'S,Biryani,Dosa,2,149.79,27,CARD,5.0,2,Monday,Fast
+1905,130,2024-02-05,Hubli,Mcdonald'S,Fast Food,Fries,1,448.32,48,UPI,1.0,2,Monday,Late
+1906,86,2024-02-05,Bangalore,Kfc,Fast Food,Paneer Curry,1,660.19,59,CARD,2.9847560975609757,2,Monday,Late
+1907,204,2024-03-04,Mangalore,Mcdonald'S,Fast Food,Chicken Pizza,4,630.49,39,UPI,4.0,3,Monday,Normal
+1908,206,2024-02-05,Mysuru,Domino'S,Fast Food,Chicken Pizza,2,522.64,15,UPI,4.0,2,Monday,Fast
+1909,258,2024-03-31,Mangalore,Kfc,Dessert,Veg Biryani,3,601.61,50,UPI,2.0,3,Sunday,Late
+1910,115,2024-01-06,Mysuru,Kfc,Fast Food,Chicken Pizza,3,750.53,32,UPI,2.9847560975609757,1,Saturday,Normal
+1911,128,2024-01-27,Bangalore,Pizza Hut,Dessert,Paneer Curry,3,340.7,60,UPI,3.0,1,Saturday,Late
+1912,69,2024-02-22,Mysuru,Empire,Fast Food,Veg Pizza,3,269.11,32,CARD,3.0,2,Thursday,Normal
+1913,9,2024-03-09,Bangalore,Empire,Dessert,Paneer Curry,2,675.46,29,CASH,3.0,3,Saturday,Fast
+1914,105,2024-03-15,Hubli,Domino'S,South Indian,Veg Biryani,4,370.68,45,UPI,4.0,3,Friday,Normal
+1915,93,2024-02-05,Bangalore,Domino'S,North Indian,Garlic Bread,2,560.34,16,CASH,2.0,2,Monday,Fast
+1916,91,2024-02-20,Mysuru,Pizza Hut,Biryani,Cheese Pizza,4,286.77,56,CARD,1.0,2,Tuesday,Late
+1917,270,2024-01-18,Bangalore,Meghana Foods,Fast Food,Fries,4,134.09,67,UPI,2.9847560975609757,1,Thursday,Late
+1918,23,2024-02-05,Bangalore,Kfc,Biryani,Paneer Curry,1,658.83,15,UPI,5.0,2,Monday,Fast
+1919,174,2024-02-05,Mysuru,Domino'S,South Indian,Paneer Curry,4,674.52,34,CASH,4.0,2,Monday,Normal
+1920,80,2024-02-05,Mangalore,Kfc,North Indian,Cheese Pizza,1,680.95,21,UPI,3.0,2,Monday,Fast
+1921,53,2024-02-05,Bangalore,Pizza Hut,Biryani,Veg Pizza,2,410.45,24,CASH,2.9847560975609757,2,Monday,Fast
+1922,147,2024-01-29,Hubli,Pizza Hut,South Indian,Chicken Pizza,1,272.68,33,CASH,1.0,1,Monday,Normal
+1923,171,2024-02-05,Bangalore,Pizza Hut,North Indian,Chicken Pizza,2,411.47,36,UPI,2.0,2,Monday,Normal
+1924,218,2024-01-20,Mysuru,Meghana Foods,Dessert,Burger,1,304.34,46,CASH,3.0,1,Saturday,Late
+1925,40,2024-02-05,Bangalore,Empire,Biryani,Fries,4,610.51,65,CARD,1.0,2,Monday,Late
+1926,58,2024-02-05,Mysuru,Domino'S,Fast Food,Burger,2,243.67,39,CASH,3.0,2,Monday,Normal
+1927,254,2024-02-05,Hubli,Meghana Foods,Dessert,Chicken Pizza,2,380.57,50,CARD,5.0,2,Monday,Late
+1928,274,2024-03-04,Mangalore,Domino'S,South Indian,Cheese Pizza,4,478.32,64,CARD,2.9847560975609757,3,Monday,Late
+1929,45,2024-02-05,Bangalore,Domino'S,Fast Food,Burger,4,771.18,22,UPI,3.0,2,Monday,Fast
+1930,185,2024-02-05,Mangalore,Domino'S,North Indian,Fries,2,263.3,29,UPI,2.9847560975609757,2,Monday,Fast
+1931,71,2024-01-16,Bangalore,Empire,Fast Food,Fries,3,156.78,21,UPI,1.0,1,Tuesday,Fast
+1932,245,2024-02-05,Bangalore,Domino'S,Dessert,Chicken Pizza,1,286.63,15,UPI,4.0,2,Monday,Fast
+1933,77,2024-02-05,Bangalore,Mcdonald'S,Dessert,Garlic Bread,4,611.34,43,UPI,3.0,2,Monday,Normal
+1934,57,2024-02-05,Bangalore,Meghana Foods,Biryani,Dosa,2,127.39,68,CARD,2.9847560975609757,2,Monday,Late
+1935,233,2024-03-11,Mysuru,Meghana Foods,North Indian,Chicken Biryani,2,408.1,25,CASH,1.0,3,Monday,Fast
+1936,268,2024-02-05,Mysuru,Empire,North Indian,Veg Pizza,2,386.76,67,UPI,5.0,2,Monday,Late
+1937,40,2024-02-05,Mangalore,Empire,South Indian,Fries,2,157.18,38,CARD,2.0,2,Monday,Normal
+1938,139,2024-02-05,Bangalore,Empire,North Indian,Burger,1,282.88,25,UPI,1.0,2,Monday,Fast
+1939,34,2024-01-28,Bangalore,Kfc,Biryani,Dosa,2,554.1,17,CARD,3.0,1,Sunday,Fast
+1940,44,2024-03-13,Bangalore,Meghana Foods,South Indian,Veg Pizza,1,333.91,34,UPI,3.0,3,Wednesday,Normal
+1941,145,2024-02-20,Mysuru,Empire,South Indian,Burger,2,597.81,21,CASH,4.0,2,Tuesday,Fast
+1942,258,2024-01-13,Bangalore,Pizza Hut,North Indian,Fries,4,518.72,69,UPI,3.0,1,Saturday,Late
+1943,83,2024-01-20,Mangalore,Pizza Hut,Fast Food,Veg Biryani,2,669.08,56,CARD,2.9847560975609757,1,Saturday,Late
+1944,83,2024-03-05,Mangalore,Empire,South Indian,Chicken Pizza,3,317.77,54,CARD,1.0,3,Tuesday,Late
+1945,199,2024-02-05,Bangalore,Domino'S,North Indian,Garlic Bread,1,667.21,24,CASH,5.0,2,Monday,Fast
+1946,45,2024-02-05,Mangalore,Empire,Biryani,Chicken Biryani,2,166.35,51,CASH,3.0,2,Monday,Late
+1947,46,2024-02-05,Mangalore,Kfc,South Indian,Chicken Biryani,4,562.2,23,UPI,5.0,2,Monday,Fast
+1948,250,2024-02-05,Mysuru,Empire,South Indian,Paneer Curry,2,419.76,47,UPI,3.0,2,Monday,Late
+1949,192,2024-01-11,Hubli,Mcdonald'S,South Indian,Chicken Biryani,1,542.02,56,UPI,2.9847560975609757,1,Thursday,Late
+1950,126,2024-03-30,Bangalore,Domino'S,Fast Food,Chicken Biryani,4,227.58,40,UPI,2.0,3,Saturday,Normal
+1951,199,2024-02-29,Bangalore,Empire,South Indian,Garlic Bread,4,194.2,26,UPI,4.0,2,Thursday,Fast
+1952,222,2024-02-05,Hubli,Pizza Hut,Dessert,Burger,4,264.59,62,CARD,1.0,2,Monday,Late
+1953,143,2024-02-05,Mangalore,Domino'S,South Indian,Chicken Pizza,2,337.73,17,UPI,4.0,2,Monday,Fast
+1954,32,2024-02-05,Mangalore,Domino'S,Fast Food,Veg Biryani,1,767.8,58,CARD,3.0,2,Monday,Late
+1955,130,2024-02-05,Bangalore,Domino'S,Fast Food,Chicken Biryani,4,175.56,70,CARD,4.0,2,Monday,Late
+1956,269,2024-01-28,Mysuru,Domino'S,Fast Food,Cheese Pizza,4,352.57,63,CASH,2.0,1,Sunday,Late
+1957,102,2024-02-05,Mangalore,Mcdonald'S,North Indian,Chicken Pizza,4,361.19,59,UPI,4.0,2,Monday,Late
+1958,6,2024-03-12,Mysuru,Pizza Hut,North Indian,Paneer Curry,2,340.14,67,CASH,1.0,3,Tuesday,Late
+1959,78,2024-02-05,Mangalore,Empire,Fast Food,Fries,3,474.07,15,CARD,2.0,2,Monday,Fast
+1960,231,2024-03-22,Bangalore,Pizza Hut,Biryani,Veg Biryani,4,593.58,64,CARD,5.0,3,Friday,Late
+1961,194,2024-02-05,Mysuru,Domino'S,North Indian,Veg Pizza,3,673.37,16,CASH,3.0,2,Monday,Fast
+1962,258,2024-01-16,Mangalore,Mcdonald'S,South Indian,Fries,3,359.5,49,CARD,5.0,1,Tuesday,Late
+1963,172,2024-02-05,Mangalore,Empire,Dessert,Chicken Pizza,2,489.08,39,CASH,2.9847560975609757,2,Monday,Normal
+1964,224,2024-02-05,Bangalore,Pizza Hut,Fast Food,Cheese Pizza,1,539.06,41,UPI,4.0,2,Monday,Normal
+1965,279,2024-01-13,Mangalore,Mcdonald'S,North Indian,Veg Pizza,3,699.16,28,CARD,4.0,1,Saturday,Fast
+1966,283,2024-02-05,Mysuru,Mcdonald'S,Fast Food,Burger,4,400.8,67,CARD,1.0,2,Monday,Late
+1967,192,2024-01-29,Mysuru,Kfc,Dessert,Chicken Biryani,4,577.84,15,CARD,1.0,1,Monday,Fast
+1968,8,2024-02-05,Hubli,Mcdonald'S,North Indian,Burger,3,235.88,51,CARD,2.0,2,Monday,Late
+1969,285,2024-02-05,Hubli,Pizza Hut,North Indian,Fries,2,758.79,39,CARD,4.0,2,Monday,Normal
+1970,163,2024-02-05,Hubli,Domino'S,Fast Food,Chicken Pizza,1,549.38,65,CARD,2.9847560975609757,2,Monday,Late
+1971,134,2024-02-05,Hubli,Domino'S,Fast Food,Cheese Pizza,1,417.45,55,UPI,2.0,2,Monday,Late
+1972,15,2024-03-20,Mangalore,Pizza Hut,North Indian,Fries,1,624.79,23,CARD,2.9847560975609757,3,Wednesday,Fast
+1973,184,2024-02-05,Mysuru,Kfc,Biryani,Dosa,2,613.89,66,CARD,3.0,2,Monday,Late
+1974,27,2024-02-05,Bangalore,Pizza Hut,North Indian,Cheese Pizza,1,432.21,53,UPI,1.0,2,Monday,Late
+1975,73,2024-02-05,Bangalore,Pizza Hut,Fast Food,Garlic Bread,3,740.65,28,CARD,1.0,2,Monday,Fast
+1976,252,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Veg Biryani,4,375.17,35,CARD,2.0,2,Monday,Normal
+1977,93,2024-02-05,Bangalore,Meghana Foods,North Indian,Veg Pizza,1,783.62,37,CARD,5.0,2,Monday,Normal
+1978,280,2024-02-05,Mangalore,Kfc,Fast Food,Veg Biryani,1,484.45,48,UPI,2.0,2,Monday,Late
+1979,111,2024-02-05,Mysuru,Pizza Hut,Dessert,Chicken Pizza,2,176.74,59,CARD,3.0,2,Monday,Late
+1980,141,2024-02-05,Bangalore,Empire,North Indian,Chicken Biryani,4,626.73,46,CARD,5.0,2,Monday,Late
+1981,205,2024-02-05,Bangalore,Domino'S,Dessert,Fries,1,516.88,64,UPI,3.0,2,Monday,Late
+1982,85,2024-01-27,Mangalore,Empire,South Indian,Fries,3,674.81,54,UPI,5.0,1,Saturday,Late
+1983,197,2024-02-05,Hubli,Empire,Fast Food,Garlic Bread,2,724.83,47,CASH,5.0,2,Monday,Late
+1984,210,2024-02-07,Mangalore,Empire,South Indian,Veg Pizza,1,242.33,35,CARD,2.0,2,Wednesday,Normal
+1985,184,2024-02-05,Mysuru,Empire,Dessert,Chicken Pizza,3,203.17,35,UPI,2.9847560975609757,2,Monday,Normal
+1986,169,2024-02-05,Hubli,Domino'S,North Indian,Cheese Pizza,4,312.86,28,UPI,2.0,2,Monday,Fast
+1987,53,2024-02-05,Bangalore,Meghana Foods,South Indian,Fries,3,673.11,27,CARD,1.0,2,Monday,Fast
+1988,253,2024-02-05,Mysuru,Empire,Fast Food,Cheese Pizza,4,236.38,35,UPI,4.0,2,Monday,Normal
+1989,122,2024-02-05,Mysuru,Pizza Hut,North Indian,Veg Pizza,4,313.37,68,CARD,1.0,2,Monday,Late
+1990,274,2024-02-05,Hubli,Pizza Hut,Fast Food,Garlic Bread,1,684.3,41,CASH,3.0,2,Monday,Normal
+1991,163,2024-02-05,Bangalore,Mcdonald'S,Dessert,Garlic Bread,1,387.46,59,CARD,4.0,2,Monday,Late
+1992,63,2024-02-17,Bangalore,Pizza Hut,Biryani,Veg Pizza,1,214.34,35,CARD,2.0,2,Saturday,Normal
+1993,88,2024-02-05,Hubli,Mcdonald'S,Fast Food,Veg Pizza,3,720.66,17,UPI,1.0,2,Monday,Fast
+1994,156,2024-02-05,Hubli,Meghana Foods,South Indian,Chicken Biryani,2,748.9,52,CARD,1.0,2,Monday,Late
+1995,65,2024-02-05,Hubli,Mcdonald'S,Fast Food,Dosa,2,512.96,57,CARD,3.0,2,Monday,Late
+1996,165,2024-02-05,Bangalore,Kfc,Dessert,Cheese Pizza,3,499.79,70,CARD,2.9847560975609757,2,Monday,Late
+1997,106,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Veg Biryani,1,575.94,44,CARD,2.0,2,Monday,Normal
+1998,250,2024-02-05,Mysuru,Meghana Foods,North Indian,Dosa,3,637.13,34,CARD,2.9847560975609757,2,Monday,Normal
+1999,79,2024-02-05,Bangalore,Domino'S,Dessert,Fries,4,710.14,47,CARD,4.0,2,Monday,Late
+2000,97,2024-02-05,Hubli,Domino'S,Dessert,Paneer Curry,1,220.16,21,UPI,2.0,2,Monday,Fast
+2001,9,2024-02-05,Mysuru,Pizza Hut,South Indian,Dosa,4,359.33,22,UPI,1.0,2,Monday,Fast
+2002,182,2024-02-05,Bangalore,Empire,North Indian,Fries,3,156.15,32,CASH,1.0,2,Monday,Normal
+2003,26,2024-02-05,Hubli,Domino'S,Dessert,Veg Biryani,4,240.12,32,UPI,5.0,2,Monday,Normal
+2004,253,2024-02-05,Bangalore,Pizza Hut,Biryani,Cheese Pizza,2,198.33,17,UPI,3.0,2,Monday,Fast
+2005,123,2024-01-09,Bangalore,Kfc,Biryani,Paneer Curry,4,386.5,21,CARD,2.9847560975609757,1,Tuesday,Fast
+2006,138,2024-02-05,Bangalore,Domino'S,Dessert,Chicken Biryani,3,619.04,21,CARD,5.0,2,Monday,Fast
+2007,245,2024-02-09,Mysuru,Domino'S,Dessert,Cheese Pizza,2,247.39,44,CARD,1.0,2,Friday,Normal
+2008,243,2024-02-05,Bangalore,Domino'S,Dessert,Cheese Pizza,2,581.86,69,UPI,5.0,2,Monday,Late
+2009,181,2024-03-01,Bangalore,Mcdonald'S,Biryani,Garlic Bread,1,150.72,16,UPI,2.9847560975609757,3,Friday,Fast
+2010,149,2024-01-30,Mangalore,Domino'S,Biryani,Cheese Pizza,1,327.13,62,CASH,4.0,1,Tuesday,Late
+2011,252,2024-02-14,Mysuru,Mcdonald'S,Dessert,Burger,4,129.22,37,CASH,2.9847560975609757,2,Wednesday,Normal
+2012,171,2024-03-07,Mangalore,Pizza Hut,Dessert,Dosa,1,220.57,41,CARD,2.9847560975609757,3,Thursday,Normal
+2013,73,2024-02-05,Bangalore,Domino'S,North Indian,Fries,3,260.29,20,CARD,4.0,2,Monday,Fast
+2014,56,2024-02-05,Mangalore,Mcdonald'S,North Indian,Chicken Pizza,3,739.02,37,CASH,4.0,2,Monday,Normal
+2015,214,2024-02-05,Mysuru,Pizza Hut,North Indian,Dosa,3,687.24,22,CARD,4.0,2,Monday,Fast
+2016,291,2024-02-05,Bangalore,Pizza Hut,South Indian,Chicken Pizza,4,583.03,48,CASH,5.0,2,Monday,Late
+2017,286,2024-02-05,Mysuru,Mcdonald'S,Dessert,Cheese Pizza,3,130.6,17,CARD,3.0,2,Monday,Fast
+2018,64,2024-02-05,Mysuru,Pizza Hut,South Indian,Burger,1,153.93,23,CASH,3.0,2,Monday,Fast
+2019,258,2024-03-26,Bangalore,Pizza Hut,Dessert,Chicken Pizza,2,413.79,20,CASH,2.0,3,Tuesday,Fast
+2020,17,2024-02-05,Mysuru,Empire,South Indian,Fries,1,727.26,34,UPI,3.0,2,Monday,Normal
+2021,89,2024-02-05,Hubli,Meghana Foods,Biryani,Veg Biryani,3,212.27,50,CARD,3.0,2,Monday,Late
+2022,157,2024-02-05,Mangalore,Mcdonald'S,Biryani,Fries,4,185.31,48,CARD,2.9847560975609757,2,Monday,Late
+2023,161,2024-03-05,Hubli,Mcdonald'S,Dessert,Fries,4,405.94,41,CARD,1.0,3,Tuesday,Normal
+2024,287,2024-02-05,Bangalore,Domino'S,North Indian,Chicken Biryani,2,514.62,38,CARD,5.0,2,Monday,Normal
+2025,279,2024-02-05,Bangalore,Empire,Biryani,Fries,1,434.71,63,UPI,4.0,2,Monday,Late
+2026,28,2024-02-05,Mysuru,Pizza Hut,Dessert,Paneer Curry,1,678.92,51,CARD,2.9847560975609757,2,Monday,Late
+2027,170,2024-02-05,Mangalore,Pizza Hut,Biryani,Dosa,2,502.19,46,CARD,2.0,2,Monday,Late
+2028,80,2024-02-08,Mysuru,Pizza Hut,South Indian,Paneer Curry,2,198.0,15,CARD,5.0,2,Thursday,Fast
+2029,62,2024-02-05,Mysuru,Domino'S,Fast Food,Garlic Bread,1,686.25,43,CARD,1.0,2,Monday,Normal
+2030,63,2024-02-05,Mangalore,Domino'S,Biryani,Dosa,3,678.75,58,CARD,2.9847560975609757,2,Monday,Late
+2031,64,2024-02-05,Bangalore,Domino'S,Biryani,Veg Biryani,2,467.83,59,UPI,2.0,2,Monday,Late
+2032,244,2024-02-05,Mysuru,Pizza Hut,North Indian,Garlic Bread,3,574.04,40,CARD,2.9847560975609757,2,Monday,Normal
+2033,55,2024-02-05,Hubli,Domino'S,Fast Food,Chicken Biryani,4,201.69,39,UPI,5.0,2,Monday,Normal
+2034,156,2024-01-05,Mangalore,Pizza Hut,Dessert,Chicken Pizza,4,720.05,44,CASH,1.0,1,Friday,Normal
+2035,82,2024-02-15,Mangalore,Domino'S,Dessert,Dosa,4,468.87,26,CARD,3.0,2,Thursday,Fast
+2036,289,2024-02-05,Bangalore,Kfc,Dessert,Fries,1,742.99,56,CARD,4.0,2,Monday,Late
+2037,242,2024-03-18,Bangalore,Meghana Foods,North Indian,Dosa,3,208.01,35,UPI,5.0,3,Monday,Normal
+2038,179,2024-03-15,Hubli,Pizza Hut,Fast Food,Veg Pizza,2,277.56,57,UPI,4.0,3,Friday,Late
+2039,244,2024-02-05,Mysuru,Pizza Hut,Biryani,Fries,4,747.22,18,UPI,3.0,2,Monday,Fast
+2040,59,2024-01-05,Bangalore,Mcdonald'S,Dessert,Paneer Curry,1,748.01,35,UPI,2.9847560975609757,1,Friday,Normal
+2041,231,2024-02-05,Mangalore,Domino'S,Biryani,Chicken Biryani,4,417.51,33,CARD,2.0,2,Monday,Normal
+2042,83,2024-02-25,Mysuru,Pizza Hut,North Indian,Veg Pizza,1,258.41,66,CARD,1.0,2,Sunday,Late
+2043,185,2024-02-22,Mangalore,Pizza Hut,Dessert,Chicken Pizza,4,249.29,28,UPI,4.0,2,Thursday,Fast
+2044,257,2024-02-05,Mangalore,Domino'S,Fast Food,Garlic Bread,4,545.32,70,UPI,5.0,2,Monday,Late
+2045,41,2024-01-17,Mysuru,Pizza Hut,Fast Food,Garlic Bread,2,155.01,49,CASH,1.0,1,Wednesday,Late
+2046,115,2024-02-05,Hubli,Empire,Fast Food,Chicken Pizza,3,170.85,51,CARD,5.0,2,Monday,Late
+2047,257,2024-02-05,Bangalore,Mcdonald'S,Fast Food,Paneer Curry,4,757.11,31,UPI,1.0,2,Monday,Normal
+2048,174,2024-02-05,Mysuru,Empire,Fast Food,Chicken Pizza,2,492.02,61,CASH,2.9847560975609757,2,Monday,Late
+2049,32,2024-02-05,Bangalore,Meghana Foods,North Indian,Veg Pizza,3,787.12,41,UPI,2.9847560975609757,2,Monday,Normal
+2050,42,2024-02-05,Bangalore,Kfc,Fast Food,Cheese Pizza,1,457.69,29,CASH,4.0,2,Monday,Fast
+2051,245,2024-02-05,Bangalore,Pizza Hut,Fast Food,Veg Biryani,4,583.72,62,UPI,5.0,2,Monday,Late
+2052,247,2024-02-05,Hubli,Domino'S,South Indian,Fries,2,198.6,22,UPI,3.0,2,Monday,Fast
+2053,181,2024-02-05,Hubli,Pizza Hut,Biryani,Veg Biryani,1,520.26,29,CARD,2.9847560975609757,2,Monday,Fast
+2054,275,2024-02-05,Bangalore,Domino'S,Fast Food,Cheese Pizza,1,206.17,26,CASH,1.0,2,Monday,Fast
+2055,161,2024-02-14,Mysuru,Kfc,Biryani,Paneer Curry,4,445.52,22,UPI,1.0,2,Wednesday,Fast
+2056,129,2024-02-05,Mangalore,Empire,Biryani,Garlic Bread,3,760.17,64,UPI,3.0,2,Monday,Late
+2057,126,2024-02-05,Hubli,Mcdonald'S,North Indian,Cheese Pizza,1,355.71,41,UPI,4.0,2,Monday,Normal
+2058,144,2024-02-05,Bangalore,Mcdonald'S,Biryani,Chicken Biryani,2,203.47,61,CARD,1.0,2,Monday,Late
+2059,121,2024-02-05,Mangalore,Pizza Hut,Fast Food,Garlic Bread,1,303.8,52,CARD,3.0,2,Monday,Late
+2060,44,2024-02-05,Hubli,Mcdonald'S,Fast Food,Fries,4,421.93,29,CARD,4.0,2,Monday,Fast
+2061,95,2024-02-05,Mangalore,Pizza Hut,Dessert,Veg Pizza,3,757.31,53,CASH,3.0,2,Monday,Late
+2062,111,2024-02-05,Hubli,Empire,Fast Food,Cheese Pizza,4,767.68,58,CASH,5.0,2,Monday,Late
+2063,238,2024-02-24,Mangalore,Kfc,Biryani,Fries,4,627.03,30,CARD,1.0,2,Saturday,Normal
+2064,144,2024-02-05,Bangalore,Domino'S,North Indian,Chicken Biryani,3,508.34,17,UPI,3.0,2,Monday,Fast
+2065,186,2024-02-04,Mysuru,Meghana Foods,Fast Food,Cheese Pizza,3,506.54,35,CASH,2.0,2,Sunday,Normal
+2066,228,2024-02-05,Mangalore,Pizza Hut,South Indian,Veg Pizza,3,446.54,69,UPI,2.0,2,Monday,Late
+2067,210,2024-01-08,Bangalore,Kfc,North Indian,Dosa,3,768.24,43,CARD,3.0,1,Monday,Normal
+2068,142,2024-02-05,Bangalore,Domino'S,Biryani,Chicken Pizza,1,278.22,56,UPI,2.0,2,Monday,Late
+2069,260,2024-02-26,Hubli,Pizza Hut,North Indian,Veg Biryani,1,767.16,31,CASH,1.0,2,Monday,Normal
+2070,181,2024-03-10,Bangalore,Meghana Foods,Biryani,Burger,1,172.69,43,UPI,5.0,3,Sunday,Normal
+2071,40,2024-02-05,Hubli,Meghana Foods,Dessert,Fries,1,556.48,33,CARD,1.0,2,Monday,Normal
+2072,168,2024-02-05,Hubli,Empire,Dessert,Garlic Bread,3,542.9,25,CASH,1.0,2,Monday,Fast
+2073,149,2024-01-20,Bangalore,Pizza Hut,North Indian,Veg Biryani,3,467.34,64,UPI,5.0,1,Saturday,Late
+2074,177,2024-02-05,Bangalore,Domino'S,South Indian,Cheese Pizza,1,771.87,29,UPI,5.0,2,Monday,Fast
+2075,295,2024-03-21,Hubli,Mcdonald'S,Fast Food,Dosa,1,532.83,57,UPI,5.0,3,Thursday,Late
+2076,226,2024-02-05,Mysuru,Meghana Foods,Dessert,Veg Biryani,3,285.29,64,CASH,2.0,2,Monday,Late
+2077,234,2024-02-10,Bangalore,Domino'S,South Indian,Fries,3,174.19,50,UPI,1.0,2,Saturday,Late
+2078,186,2024-02-05,Mysuru,Mcdonald'S,South Indian,Veg Biryani,2,749.49,30,CARD,2.9847560975609757,2,Monday,Normal
+2079,300,2024-02-05,Mysuru,Kfc,Dessert,Burger,1,175.42,41,UPI,2.0,2,Monday,Normal
+2080,295,2024-03-04,Mysuru,Domino'S,South Indian,Veg Pizza,2,202.14,31,UPI,2.9847560975609757,3,Monday,Normal
+2081,241,2024-02-05,Bangalore,Empire,Fast Food,Chicken Pizza,1,210.02,70,UPI,4.0,2,Monday,Late
+2082,217,2024-02-05,Hubli,Mcdonald'S,Biryani,Chicken Biryani,1,349.03,67,CASH,5.0,2,Monday,Late
+2083,56,2024-02-05,Hubli,Mcdonald'S,South Indian,Garlic Bread,4,316.72,45,CARD,2.9847560975609757,2,Monday,Normal
+2084,94,2024-03-16,Bangalore,Domino'S,Fast Food,Paneer Curry,3,578.26,44,CARD,3.0,3,Saturday,Normal
+2085,225,2024-01-23,Mysuru,Pizza Hut,Biryani,Chicken Biryani,4,351.96,51,UPI,5.0,1,Tuesday,Late
+2086,297,2024-02-05,Mysuru,Empire,South Indian,Burger,2,768.39,17,CARD,4.0,2,Monday,Fast
+2087,266,2024-02-05,Hubli,Pizza Hut,Dessert,Chicken Biryani,2,200.61,32,CARD,4.0,2,Monday,Normal
+2088,115,2024-02-05,Mysuru,Meghana Foods,Fast Food,Veg Biryani,3,215.88,28,UPI,5.0,2,Monday,Fast
+2089,87,2024-01-04,Bangalore,Mcdonald'S,North Indian,Veg Biryani,1,452.09,67,UPI,3.0,1,Thursday,Late
+2090,105,2024-02-06,Hubli,Mcdonald'S,North Indian,Chicken Pizza,4,320.56,22,UPI,4.0,2,Tuesday,Fast
+2091,222,2024-02-05,Bangalore,Domino'S,Dessert,Cheese Pizza,3,666.48,62,CARD,2.9847560975609757,2,Monday,Late
+2092,39,2024-02-05,Mangalore,Empire,Dessert,Garlic Bread,1,600.63,35,UPI,4.0,2,Monday,Normal
+2093,52,2024-03-31,Hubli,Domino'S,North Indian,Veg Pizza,1,287.22,52,CARD,2.0,3,Sunday,Late
+2094,101,2024-02-05,Bangalore,Mcdonald'S,Biryani,Garlic Bread,3,209.62,55,UPI,5.0,2,Monday,Late
+2095,110,2024-02-05,Bangalore,Mcdonald'S,North Indian,Paneer Curry,2,602.79,17,CARD,2.9847560975609757,2,Monday,Fast
+2096,135,2024-02-05,Mysuru,Empire,South Indian,Dosa,2,716.96,68,CARD,3.0,2,Monday,Late
+2097,249,2024-03-03,Hubli,Meghana Foods,Dessert,Dosa,4,320.88,29,UPI,3.0,3,Sunday,Fast
+2098,215,2024-02-05,Mysuru,Empire,Fast Food,Chicken Pizza,4,770.29,57,UPI,3.0,2,Monday,Late
+2099,204,2024-02-05,Mangalore,Mcdonald'S,North Indian,Fries,2,139.69,32,UPI,2.0,2,Monday,Normal
+2100,210,2024-01-08,Hubli,Kfc,Dessert,Fries,4,670.14,42,CARD,3.0,1,Monday,Normal
+2101,28,2024-02-05,Mysuru,Empire,Fast Food,Chicken Biryani,4,398.67,51,CARD,5.0,2,Monday,Late
+2102,106,2024-02-05,Hubli,Domino'S,North Indian,Dosa,1,766.19,16,CARD,1.0,2,Monday,Fast
+2103,171,2024-02-15,Bangalore,Pizza Hut,North Indian,Veg Biryani,3,484.12,25,UPI,4.0,2,Thursday,Fast
+2104,118,2024-02-05,Hubli,Empire,South Indian,Veg Biryani,2,759.21,17,UPI,5.0,2,Monday,Fast
+2105,53,2024-02-05,Mangalore,Pizza Hut,Biryani,Chicken Biryani,3,136.49,55,CARD,1.0,2,Monday,Late
+2106,140,2024-02-05,Hubli,Domino'S,Dessert,Cheese Pizza,1,170.25,61,CARD,1.0,2,Monday,Late
+2107,8,2024-03-10,Bangalore,Pizza Hut,North Indian,Fries,2,685.4,69,CASH,3.0,3,Sunday,Late
+2108,218,2024-03-06,Bangalore,Kfc,Dessert,Garlic Bread,2,187.78,56,UPI,4.0,3,Wednesday,Late
+2109,193,2024-02-05,Bangalore,Domino'S,South Indian,Dosa,3,448.68,59,UPI,5.0,2,Monday,Late
+2110,126,2024-02-05,Mangalore,Empire,Dessert,Dosa,1,427.54,51,UPI,4.0,2,Monday,Late
+2111,119,2024-02-05,Mangalore,Meghana Foods,Fast Food,Chicken Biryani,3,217.76,55,UPI,1.0,2,Monday,Late
+2112,288,2024-02-05,Mangalore,Meghana Foods,Biryani,Cheese Pizza,2,394.17,68,CARD,5.0,2,Monday,Late
+2113,291,2024-02-05,Mangalore,Kfc,South Indian,Chicken Biryani,3,687.34,17,CASH,2.9847560975609757,2,Monday,Fast
+2114,290,2024-02-05,Bangalore,Kfc,Biryani,Dosa,4,491.0,35,CARD,3.0,2,Monday,Normal
+2115,237,2024-02-05,Mangalore,Mcdonald'S,Fast Food,Cheese Pizza,4,595.49,39,CARD,1.0,2,Monday,Normal
+2116,83,2024-03-07,Bangalore,Domino'S,Biryani,Garlic Bread,1,146.56,42,CARD,2.0,3,Thursday,Normal
+2117,269,2024-02-05,Mangalore,Empire,South Indian,Veg Pizza,3,199.96,33,CASH,5.0,2,Monday,Normal
+2118,166,2024-02-05,Bangalore,Domino'S,Dessert,Dosa,2,665.91,60,CASH,5.0,2,Monday,Late
+2119,129,2024-02-05,Mysuru,Empire,Biryani,Chicken Pizza,4,126.68,41,CARD,2.0,2,Monday,Normal
+2120,241,2024-02-05,Mysuru,Domino'S,Biryani,Cheese Pizza,4,345.1,18,UPI,4.0,2,Monday,Fast
+2121,81,2024-02-05,Mangalore,Domino'S,Dessert,Veg Pizza,2,306.71,67,CARD,5.0,2,Monday,Late
+2122,157,2024-02-17,Hubli,Kfc,North Indian,Dosa,2,172.68,24,UPI,2.9847560975609757,2,Saturday,Fast
+2123,111,2024-02-05,Mysuru,Meghana Foods,Fast Food,Chicken Pizza,4,344.51,64,UPI,5.0,2,Monday,Late
+2124,142,2024-03-19,Mangalore,Domino'S,Biryani,Veg Pizza,2,792.58,20,UPI,2.0,3,Tuesday,Fast
+2125,74,2024-02-05,Bangalore,Empire,Fast Food,Veg Pizza,2,467.96,43,CARD,2.9847560975609757,2,Monday,Normal
+2126,242,2024-02-05,Mangalore,Pizza Hut,Biryani,Dosa,4,376.57,39,CARD,3.0,2,Monday,Normal
+2127,160,2024-02-05,Mangalore,Pizza Hut,North Indian,Veg Biryani,2,762.93,68,CASH,2.9847560975609757,2,Monday,Late
+2128,74,2024-02-25,Mangalore,Mcdonald'S,Dessert,Cheese Pizza,4,563.42,26,UPI,3.0,2,Sunday,Fast
+2129,239,2024-02-05,Hubli,Domino'S,North Indian,Dosa,2,380.07,26,UPI,2.0,2,Monday,Fast
+2130,227,2024-02-16,Mysuru,Pizza Hut,North Indian,Chicken Biryani,3,183.99,38,CASH,5.0,2,Friday,Normal
+2131,7,2024-02-05,Bangalore,Kfc,South Indian,Fries,1,797.1,60,CASH,3.0,2,Monday,Late
+2132,30,2024-02-05,Mangalore,Meghana Foods,South Indian,Garlic Bread,2,441.94,70,UPI,1.0,2,Monday,Late
+2133,20,2024-02-05,Bangalore,Domino'S,Biryani,Cheese Pizza,4,687.16,22,UPI,4.0,2,Monday,Fast
+2134,32,2024-02-05,Mangalore,Kfc,Biryani,Paneer Curry,1,346.21,58,CASH,2.9847560975609757,2,Monday,Late
+2135,87,2024-03-16,Hubli,Mcdonald'S,Fast Food,Fries,4,689.65,57,UPI,1.0,3,Saturday,Late
+2136,99,2024-02-05,Mysuru,Pizza Hut,Biryani,Garlic Bread,1,307.36,27,UPI,4.0,2,Monday,Fast
+2137,89,2024-03-22,Bangalore,Kfc,Dessert,Dosa,3,200.05,44,UPI,2.9847560975609757,3,Friday,Normal
+2138,45,2024-02-05,Bangalore,Pizza Hut,Fast Food,Chicken Pizza,1,246.25,52,UPI,2.0,2,Monday,Late
+2139,6,2024-01-28,Hubli,Mcdonald'S,Fast Food,Veg Biryani,3,689.37,56,CARD,2.9847560975609757,1,Sunday,Late
+2140,68,2024-02-05,Hubli,Kfc,Biryani,Chicken Biryani,2,504.23,41,CARD,2.0,2,Monday,Normal
+2141,140,2024-02-05,Mysuru,Kfc,South Indian,Chicken Biryani,1,453.12,52,CASH,3.0,2,Monday,Late
+2142,268,2024-02-27,Bangalore,Pizza Hut,North Indian,Fries,2,485.81,28,CARD,3.0,2,Tuesday,Fast
+2143,148,2024-02-05,Mangalore,Mcdonald'S,Dessert,Cheese Pizza,2,295.59,44,CASH,1.0,2,Monday,Normal
+2144,60,2024-03-07,Bangalore,Mcdonald'S,Biryani,Garlic Bread,3,373.15,39,UPI,1.0,3,Thursday,Normal
+2145,166,2024-02-05,Hubli,Pizza Hut,Biryani,Fries,4,347.6,56,UPI,2.0,2,Monday,Late
+2146,184,2024-02-05,Mangalore,Mcdonald'S,Biryani,Veg Pizza,4,670.27,44,UPI,5.0,2,Monday,Normal
+2147,223,2024-02-05,Mysuru,Kfc,Dessert,Paneer Curry,3,448.14,40,CASH,1.0,2,Monday,Normal
+2148,120,2024-02-05,Hubli,Empire,Dessert,Paneer Curry,4,523.29,25,UPI,2.0,2,Monday,Fast
+2149,154,2024-03-17,Mangalore,Domino'S,North Indian,Chicken Pizza,2,571.12,65,UPI,1.0,3,Sunday,Late
+2150,159,2024-02-05,Mangalore,Empire,Biryani,Garlic Bread,1,567.85,27,CARD,3.0,2,Monday,Fast
+2151,158,2024-02-05,Mysuru,Domino'S,South Indian,Cheese Pizza,2,224.81,50,CASH,1.0,2,Monday,Late
+2152,245,2024-02-05,Bangalore,Mcdonald'S,North Indian,Fries,2,740.73,57,CARD,4.0,2,Monday,Late
+2153,125,2024-02-05,Bangalore,Empire,Biryani,Fries,3,730.65,67,CARD,5.0,2,Monday,Late
+2154,202,2024-02-05,Hubli,Mcdonald'S,North Indian,Veg Pizza,2,722.2,26,CARD,3.0,2,Monday,Fast
+2155,186,2024-02-13,Bangalore,Meghana Foods,North Indian,Fries,1,558.99,23,CARD,2.0,2,Tuesday,Fast
+2156,23,2024-02-05,Hubli,Pizza Hut,Dessert,Fries,2,409.48,33,CASH,4.0,2,Monday,Normal
+2157,247,2024-02-05,Hubli,Domino'S,Biryani,Fries,1,436.15,20,CASH,2.9847560975609757,2,Monday,Fast
+2158,52,2024-02-05,Bangalore,Domino'S,Dessert,Chicken Pizza,4,586.68,15,CARD,2.9847560975609757,2,Monday,Fast
+2159,206,2024-02-05,Mysuru,Empire,Dessert,Cheese Pizza,4,461.4,64,CARD,2.9847560975609757,2,Monday,Late
+2160,172,2024-02-05,Bangalore,Domino'S,South Indian,Dosa,4,711.81,20,CARD,1.0,2,Monday,Fast
+2161,173,2024-03-31,Mysuru,Domino'S,North Indian,Paneer Curry,4,415.72,44,CASH,1.0,3,Sunday,Normal
+2162,63,2024-02-05,Hubli,Pizza Hut,North Indian,Burger,3,409.48,58,CASH,1.0,2,Monday,Late
+2163,278,2024-02-05,Mysuru,Empire,South Indian,Veg Pizza,4,340.75,55,UPI,5.0,2,Monday,Late
+2164,58,2024-02-15,Bangalore,Mcdonald'S,South Indian,Veg Biryani,2,177.15,21,CARD,2.9847560975609757,2,Thursday,Fast
+2165,75,2024-02-05,Hubli,Kfc,Dessert,Garlic Bread,2,744.77,68,UPI,5.0,2,Monday,Late
+2166,235,2024-02-05,Hubli,Empire,Fast Food,Chicken Pizza,1,379.7,61,UPI,3.0,2,Monday,Late
+2167,155,2024-02-05,Bangalore,Domino'S,Dessert,Cheese Pizza,4,776.31,65,CARD,5.0,2,Monday,Late
+2168,134,2024-02-08,Mangalore,Mcdonald'S,Biryani,Veg Pizza,3,509.87,28,CARD,3.0,2,Thursday,Fast
+2169,96,2024-02-05,Bangalore,Meghana Foods,South Indian,Chicken Pizza,3,305.42,41,CARD,1.0,2,Monday,Normal
+2170,213,2024-02-05,Mysuru,Kfc,South Indian,Paneer Curry,3,186.06,29,UPI,2.9847560975609757,2,Monday,Fast
+2171,167,2024-02-05,Mysuru,Meghana Foods,South Indian,Paneer Curry,4,551.65,36,UPI,4.0,2,Monday,Normal
+2172,244,2024-02-05,Hubli,Empire,Dessert,Burger,4,223.21,69,CARD,2.0,2,Monday,Late
+2173,273,2024-02-05,Hubli,Kfc,South Indian,Veg Pizza,1,549.34,50,CASH,1.0,2,Monday,Late
+2174,107,2024-02-05,Mysuru,Kfc,Dessert,Garlic Bread,4,140.1,54,UPI,2.0,2,Monday,Late
+2175,181,2024-02-05,Hubli,Pizza Hut,Dessert,Dosa,4,792.98,39,UPI,2.0,2,Monday,Normal
+2176,194,2024-02-05,Bangalore,Empire,Biryani,Veg Biryani,1,508.11,26,CARD,2.9847560975609757,2,Monday,Fast
+2177,206,2024-02-05,Hubli,Domino'S,South Indian,Paneer Curry,3,337.19,38,UPI,2.9847560975609757,2,Monday,Normal
+2178,163,2024-03-05,Mangalore,Empire,Biryani,Fries,4,634.64,33,CARD,2.0,3,Tuesday,Normal
+2179,91,2024-02-05,Bangalore,Mcdonald'S,Dessert,Garlic Bread,2,584.68,21,CARD,5.0,2,Monday,Fast
+2180,215,2024-02-05,Mysuru,Pizza Hut,North Indian,Veg Biryani,2,534.6,47,UPI,5.0,2,Monday,Late
+2181,293,2024-02-05,Hubli,Meghana Foods,Biryani,Chicken Pizza,4,585.37,38,UPI,2.9847560975609757,2,Monday,Normal
+2182,200,2024-03-11,Mysuru,Domino'S,South Indian,Burger,2,239.14,60,CARD,3.0,3,Monday,Late
+2183,68,2024-02-05,Bangalore,Domino'S,North Indian,Garlic Bread,4,286.63,53,CARD,2.0,2,Monday,Late
+2184,91,2024-02-29,Bangalore,Meghana Foods,Dessert,Chicken Pizza,2,434.3,19,UPI,2.9847560975609757,2,Thursday,Fast
+2185,17,2024-03-28,Hubli,Mcdonald'S,South Indian,Fries,1,652.47,31,UPI,1.0,3,Thursday,Normal
+2186,274,2024-02-05,Mangalore,Pizza Hut,Dessert,Fries,1,367.09,60,UPI,2.9847560975609757,2,Monday,Late
+2187,226,2024-02-05,Bangalore,Domino'S,Dessert,Paneer Curry,1,610.96,38,CARD,2.9847560975609757,2,Monday,Normal
+2188,174,2024-02-05,Mangalore,Domino'S,Dessert,Cheese Pizza,3,556.58,19,CARD,2.9847560975609757,2,Monday,Fast
+2189,252,2024-02-05,Hubli,Kfc,South Indian,Burger,4,595.7,51,CASH,5.0,2,Monday,Late
+2190,19,2024-02-05,Mangalore,Kfc,Fast Food,Veg Biryani,3,503.21,60,CASH,3.0,2,Monday,Late
+2191,82,2024-03-13,Mysuru,Mcdonald'S,South Indian,Chicken Biryani,2,625.74,59,CARD,2.0,3,Wednesday,Late
+2192,150,2024-02-05,Mysuru,Pizza Hut,Biryani,Paneer Curry,3,220.89,15,CASH,3.0,2,Monday,Fast
+2193,261,2024-02-05,Mangalore,Meghana Foods,Biryani,Burger,2,519.25,47,CASH,5.0,2,Monday,Late
+2194,192,2024-02-05,Bangalore,Mcdonald'S,South Indian,Chicken Pizza,4,730.05,15,UPI,3.0,2,Monday,Fast
+2195,116,2024-02-05,Mysuru,Domino'S,Dessert,Paneer Curry,1,562.0,37,CARD,4.0,2,Monday,Normal
+2196,292,2024-02-05,Mangalore,Domino'S,Biryani,Burger,1,390.97,21,CASH,5.0,2,Monday,Fast
+2197,35,2024-02-04,Mangalore,Mcdonald'S,Fast Food,Veg Pizza,4,505.36,30,CARD,3.0,2,Sunday,Normal
+2198,94,2024-03-29,Mysuru,Domino'S,South Indian,Chicken Pizza,1,785.98,32,UPI,3.0,3,Friday,Normal
+2199,47,2024-01-25,Bangalore,Domino'S,North Indian,Chicken Biryani,1,261.26,30,UPI,5.0,1,Thursday,Normal
