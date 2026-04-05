@@ -99,4 +99,13 @@ GitHub: https://github.com/sahanakgowda1106
 
 ---
 
-## 📂 Project Structure
+## 🎓 Learning Outcomes
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis  
+- Data visualization techniques  
+- Business insight generation  
+
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
